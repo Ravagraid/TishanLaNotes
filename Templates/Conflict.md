@@ -3,7 +3,7 @@ title: {{title}}
 Creation Date: {{date}}
 tags:
 - Template
-- Condition
+- Conflict
 - 
 ---
 
