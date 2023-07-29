@@ -189,3 +189,32 @@ Circumstances of death
 
 
 Alignment (Ignoring the standard D&D grid.)
+
+## Divinity
+### Church/Cult of Worship
+
+### Realm
+Where does the deity reside? 
+
+### Classification
+
+### Divine Domains
+Planes that exist beyond the material, planes of fire or ice or earth and water. Which domains is the chosen figure involved with, or attuned to?
+
+### Artefacts
+Relics, weapons, and other trinkets created by or attributed to the figure.
+
+### Religious Texts
+Any scripture, holy books, codes, laws, letters, and other documentation written directly by the figure, or their followers in some capacity.
+
+### Symbols and Signs
+Any iconography pertaining to the figure, whether seemingly mundane without secret knowledge, or brazenly in reference to them, as holy or divine.
+
+### Tenets of Faith
+A system of beliefs and principles ordained by the figure, that their followers hold to be true.
+
+### Divine Goals
+The known and unknown goals of this deity.
+
+### Religious Holidays
+Any religious celebrations or festivals given in the name of the deity.

@@ -8,9 +8,9 @@ tags:
 ---
 
 # [[{{title}}]]
-<small>pronunciation:</small>
+<small>Pronunciation:</small>
 <small>Alternative Names:</small>
-	
+
 ## Introduction
 
 <small>Parent System:</small>
