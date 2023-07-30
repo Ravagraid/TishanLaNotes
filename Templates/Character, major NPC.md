@@ -98,6 +98,7 @@ Presentation (Masculine, Feminine, Androgynous. Refers to clothes, hairstyle, ma
 Pronouns
 
 ### Special Abilities
+This may or may not be tied directly to a characters species.
 
 ### Conditions (Mutations, afflictions, transformations)
 

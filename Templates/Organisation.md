@@ -24,24 +24,14 @@ Other names the organisation might be known by. Abbreviations, slang, former nam
 ### Demonym
 Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example, “French” is the demonym for someone from France.
 
-### Founding Date
-### Dissolution Date
-
 ### Leader + Title
 Character currently leading the organization. This can be the King, Count, Duke, Guild Master, CEO etc.
-
 
 ### Ruling Organisation (If any)
 Organisation currently leading the organisation. This can be a Council, Board, another Organisation etc.
 
-### Founders
-The founder(s) of this organisation.
-
 ### Parent Organisation
 Use this if your organisation is a subsidiary of another organisation. That can be the Duchies and Counties of a Kingdom, the local branch of a guild or a Temple of an organized Religion.
-
-### Geographic Location/Base Settlement/HQ
-Use this to define within which geographic location your organization exists in, in its entirety.
 
 ### Related Species
 Which species are related with this organization
@@ -61,11 +51,58 @@ An organization's public agenda describes their goals and motivation behind thei
 ### Assets
 Silver and gold, buildings, troops, equipment, weapons, ships and horses, castles and other fortifications are the amasses or available wealth of an organization.
 
+## Historical
+Place subheadings related to the history of the organisation here.
+
+### Founding Date
+### Dissolution Date
+
+### Founders
+The founder(s) of this organization. May or may not be a family.
+
 ### History
-Write here the outline of the history of this organization. Use the timeline to add the most important events in your organization's history.
+Write here the outline of the history of this organisation. Use the timeline to add the most important events in your organisation's history.
 
 ### Disbandment
-If the organization is dissolved/disbanded when it happened and which were the circumstances surrounding it's dissolution? (This will also mark the Organization as "Disbanded")
+If the organisation is dissolved/disbanded when it happened, and which were the circumstances surrounding its dissolution? (This will also mark the Organisation as “Disbanded”)
 
-## Organisational History
-Place subheadings related to the history of the organisation here.
+## Geopolitical
+
+### Geographic Location / Base Settlement / HQ
+A rough outline of the organisations seat of power. Whether it be the capital of a nation, a hidden base within a pre-existing city, or something altogether more esoteric.
+
+### Head of Ceremony
+Emperors, Queens, Presidents and other individuals that embody the outward face of the organisation. It isn't necessarily required that they hold any true power, such as with the royal family of the United Kingdom.
+
+### Head Of Power (Name is placeholder)
+The individual or group that holds true power within the organisation, and thus is able to make decisions. The Head of Power and Head of Ceremony may or may not be the same person, depending on the given organisation.
+
+### System of Governance
+Type; See [[Systems Of Governance]]
+
+### Power Structure
+Type;
+
+- Autonomous area
+- Client State/Puppet State
+- Confederation
+- Dependent Territory
+- Federation
+- Feudal State
+- Provisional Government
+- Semi-Autonomous Area
+- Thalassocracy
+- Transnational Government
+- Unitary State
+
+### Economic System
+Type;
+
+- Barter System
+- Command/Planned Economy
+- Gift Economy
+- Market Economy
+- Mixed Economy
+- Palace Economy
+- Post-Scarcity Economy
+- Traditional
