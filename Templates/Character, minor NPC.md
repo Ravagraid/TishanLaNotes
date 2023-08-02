@@ -4,7 +4,8 @@ Creation Date: {{date}}
 tags:
 - Template
 - Character
-- Minor NPC
+- Minor_NPC
+- NPC
 ---
 
 # [[{{title}}]]

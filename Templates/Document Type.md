@@ -1,0 +1,103 @@
+type;
+- Announcement, Invitation
+- Announcement, RSVP
+- Certificate, Civil
+- Certificate, Professional
+- Certificate, Education (Degree)
+- Contract, Private
+- Contract, Civil
+- Decree, Royal
+- Decree, Religious
+- Decree, Governmental
+- Guide, Generic
+- Guide, Survival
+- Guide, How-To
+- Identification, Private
+- Identification, Civil (Passport/ID Card)
+- Imagery, Artistic
+- Imagery, Religious
+- Journal, Personal
+- Journal, Scientific
+- Journal Medical
+- Leaked Original
+- Licence, Civil
+- Licence, Professional
+- Licence, Private (Letter of Marque)
+- Manual, Professional Skills
+- Manual, Military
+- Manual, Artistic
+- Manual, Martial Art / Combat
+- Manual, Culinary
+- Manual, Magical / Occult
+- Manual, Scientific
+- Manual, Technical / Blueprint
+- Manual, Musical
+- Manual, Linguistic (Lexicon)
+- Manuscript, Religious
+- Manuscript, Historical
+- Manuscript, Legal
+- Manuscript, Magical (Tome/Scroll)
+- Manuscript, Musical
+- Manuscript, Literature
+- Map, Geological
+- Map, Geopolitical
+- Map, Topographic
+- Map, Survey
+- Map, Military
+- Map, Historical
+- Map, Weather
+- Map, Economic
+- Map, Star chart
+- Map, Thematic
+- Map, Artistic
+- Map, Atlas
+- Map, Floorplan
+- Map, Treasure
+- Other, Flyer
+- Other, Poster
+- Record, Patent
+- Record, Culinary (Menu)
+- Record, Judicial
+- Record, Public
+- Record, Financial (Bill, Invoice, Fine, etc)
+- Record, Deed
+- Record, Title
+- Record, Employment
+- Record, Historical
+- Record, Musical (Music, Sheet)
+- Record, Memo
+- Record, Logbook
+- Record, Business Accounts
+- Record, Research Notes
+- Record, Transcript (Communication)
+- Report, Civil
+- Report, Military
+- Report, Scientific
+- Report, Intelligence
+- Report, Financial
+- Report, Manifest
+- Report, Incident
+- Statement, Political (Manifesto)
+- Statement, Financial
+- Statement, Inscription / Graffiti
+- Statement, Artistic
+- Study, Scientific
+- Study, Artistic
+- Study, Historical
+- Study, Magical
+- Study, Religious
+- Text, Religious
+- Text, Philosophical
+- Text, Literary (Novel/Poetry)
+- Text, Legislative
+- Text, Letter
+- Text, Literature
+- Text, Newspaper
+- Text, Magazine
+- Textbook
+- Treaty, Diplomatic
+- Treaty, Trade
+- Warrant, Royal
+- Warrant, Civil
+- Warrant, Arrest
+- Warrant, Wanted / Search
