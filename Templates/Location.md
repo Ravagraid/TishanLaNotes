@@ -3,13 +3,15 @@ title: {{title}}
 Creation Date: {{date}}
 tags:
 - Template
-- Cosmology
+- Location
 - 
 ---
 
 # [[{{title}}]]
 <small>Pronunciation:</small>
 <small>Alternative Names:</small>
+
+<small>[[Location Type]]</small>
 
 ## Introduction
 
