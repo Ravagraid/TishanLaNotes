@@ -10,7 +10,7 @@ tags:
 # [[{{title}}]]
 <small>Pronunciation:</small>
 
-<small>[[Document Type]]</small>
+[[Document Type]]
 
 ## Introduction
 

@@ -11,7 +11,7 @@ tags:
 <small>Pronunciation:</small>
 <small>Alternative Names:</small>
 
-<small>[[Location Type]]</small>
+<small>[[Geography Type]]</small>
 
 ## Introduction
 

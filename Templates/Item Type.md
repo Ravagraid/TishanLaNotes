@@ -1,0 +1,42 @@
+Type;
+- Ammunition
+- Armour
+- Art
+- Award
+- Bionic
+- Book / Document
+- Clothing / Accessory
+- Communication
+- Component
+- Compound
+- Consumable, Food / Drink
+- Consumable, Magical
+- Currency & Deeds
+- Drug / Narcotic / Medicine
+- Electric / Cybernetic
+- Element, Chemical
+- Furniture
+- Jewelry / Valuable
+- Magical
+- Mechanical
+- Miscellaneous
+- Musical Instrument
+- Navigational Aid / Instrument
+- Pataphysical
+- Power Storage / Generator
+- Religious / Ritualistic
+- Robotic
+- Sensory / Aid
+- Service
+- Storage
+- Survival 
+- Tool
+- Toy
+- Trade/Manufacture Good
+- Trap
+- Trophy
+- Unique Artifact
+- Weapon, Explosive
+- Weapon, Melee
+- Weapon, Other
+- Weapon, Ranged
