@@ -38,3 +38,14 @@ What are the materials used, and the components combined in order to manufacture
 Which are the tools required in order to manufacture this item?
 ### Manufacturing Process
 Which is the process that is followed in order for this item to be created?
+
+## Connections
+### Related Technologies
+Which technologies are required for the manufacturing of this item.
+### Related Condition
+Illness, Mutation, Transformation related to the item/compound.
+### Related Ethnicities
+Ethnicities making extended use of this item.
+## Location
+### Current Geographic Location
+### Notable Possessors
