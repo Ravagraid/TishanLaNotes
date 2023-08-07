@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Material.md",
+                "file": "Templates/Military Unit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Material.md",
+                "file": "Templates/Military Unit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Material.md",
+                "file": "Templates/Military Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Material.md",
+                "file": "Templates/Military Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Material.md"
+                "file": "Templates/Military Unit.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   "active": "1ca3c578dc41ad15",
   "lastOpenFiles": [
     "Templates/Building.md",
+    "Templates/Military Unit.md",
     "Templates/Material.md",
     "Templates/Character, Diety.md",
     "Templates/Item.md",
@@ -253,7 +254,6 @@
     "Templates/Organisation Types.md",
     "Templates/Organisation.md",
     "Templates/Systems Of Governance.md",
-    "Templates/Template.md",
     "Misc/Topics To Consider.md",
     "Misc",
     "{{Title}}.md",
