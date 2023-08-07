@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "8623819bcb082c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8b6d0f24cdd8b8",
+        "type": "tabs",
+        "dimension": 71.54178674351584,
+        "children": [
+          {
+            "id": "1ca3c578dc41ad15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Material.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "4f249d4eb7b10155"
+          }
+        ]
+      },
+      {
+        "id": "f830fba1c9d68dcb",
+        "type": "tabs",
+        "dimension": 28.45821325648415,
+        "children": [
+          {
+            "id": "58fb1d2f9102ac3a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Templates/Material.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              }
+            },
+            "group": "4f249d4eb7b10155"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "131a87fdca82652a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2147594dc6fe01bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa8a637bb79ad76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a3b1a06a2b78401",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e884077b37d32a9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a8bfabf0ca78a27",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc19c3383f0f2999",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cd476c45aef208f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "515d86f4b10af034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "481567b4f7dd2859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Material.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dcfd3c1d6edfe581",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Material.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ec9448fe2f8188b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "90341d29c85500d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Material.md"
+              }
+            }
+          },
+          {
+            "id": "b66b26518def3c7e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "2161797027f760e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "fantasy-content-generator:Fantasy Generators": false
+    }
+  },
+  "active": "1ca3c578dc41ad15",
+  "lastOpenFiles": [
+    "Templates/Building.md",
+    "Templates/Material.md",
+    "Templates/Character, Diety.md",
+    "Templates/Item.md",
+    "Templates/Language.md",
+    "Templates/Item Type.md",
+    "Templates/Document.md",
+    "Templates/Ethnicity.md",
+    "Templates/Geography Type.md",
+    "Templates/Geography.md",
+    "Untitled.md",
+    "Templates/Character, major NPC.md",
+    "Templates/Document Type.md",
+    "Templates/Conflict.md",
+    "Templates/Condition.md",
+    "Templates/Character, minor NPC.md",
+    "Templates/Natural Law.md",
+    "{{title}}.md",
+    "Templates/Country.md",
+    "Templates/Organisation Types.md",
+    "Templates/Organisation.md",
+    "Templates/Systems Of Governance.md",
+    "Templates/Template.md",
+    "Misc/Topics To Consider.md",
+    "Misc",
+    "{{Title}}.md",
+    "q.md",
+    "Primer",
+    "Templates",
+    "TishanLaNotes"
+  ]
+}

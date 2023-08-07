@@ -1,0 +1,15 @@
+NPC
+Major
+Magical
+Country
+Template
+Conflict
+Building
+Cosmology
+Condition
+Character
+Minor_NPC
+Major_NPC
+Natural_Law
+Organisation
+Architecture
