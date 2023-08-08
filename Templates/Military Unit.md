@@ -92,3 +92,5 @@ What is the recruitment pool of the formation? What are the recruitment requirem
 
 ### History
 Which major battles this formation was used in the past, or the cultural impact in world history? What is its legacy, historically or culturally?
+### Historical Loyalties
+Who was this formation loyal to, historically? Was it a king, god, general, country. kingdom, magic school, or species?
