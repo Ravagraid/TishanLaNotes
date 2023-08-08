@@ -29,4 +29,3 @@ Describe the way the natural or supernatural law manifests itself. For example, 
 
 ### Localization
 In some cases, especially when it comes to metaphysical/magical laws, the effects or the laws themselves might be localized. Describe here which locations and why this law applies. An example could be a "dead magic area" or a leyline of magic energy etc.
-

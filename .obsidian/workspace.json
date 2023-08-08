@@ -4,66 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db8b6d0f24cdd8b8",
+        "id": "26332bffd25c7db4",
         "type": "tabs",
-        "dimension": 71.54178674351584,
         "children": [
           {
-            "id": "1ca3c578dc41ad15",
+            "id": "88984c0138b2344a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Myths & Legends.md",
+                "file": "Templates/Profession.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "4f249d4eb7b10155"
-          }
-        ]
-      },
-      {
-        "id": "f830fba1c9d68dcb",
-        "type": "tabs",
-        "dimension": 28.45821325648415,
-        "children": [
-          {
-            "id": "58fb1d2f9102ac3a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Templates/Myths & Legends.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224425,
-                  "close": true
-                }
-              }
-            },
-            "group": "4f249d4eb7b10155"
+            }
           }
         ]
       }
@@ -148,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Myths & Legends.md",
+                "file": "Templates/Profession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Myths & Legends.md",
+                "file": "Templates/Profession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Myths & Legends.md"
+                "file": "Templates/Profession.md"
               }
             }
           },
@@ -201,14 +156,15 @@
             }
           },
           {
-            "id": "2161797027f760e3",
+            "id": "3f1926a6a8fa039d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -229,35 +185,35 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "1ca3c578dc41ad15",
+  "active": "88984c0138b2344a",
   "lastOpenFiles": [
-    "Templates/Military Unit.md",
-    "Templates/Myths & Legends.md",
-    "Templates/Building.md",
     "Templates/Material.md",
+    "Templates/Language.md",
+    "Templates/Organisation.md",
+    "Templates/Profession.md",
+    "Templates/Natural Law.md",
+    "Templates/Myths & Legends.md",
+    "Untitled.md",
+    "Templates/Military Unit.md",
+    "Templates/Building.md",
     "Templates/Character, Diety.md",
     "Templates/Item.md",
-    "Templates/Language.md",
     "Templates/Item Type.md",
     "Templates/Document.md",
     "Templates/Ethnicity.md",
     "Templates/Geography Type.md",
     "Templates/Geography.md",
-    "Untitled.md",
     "Templates/Character, major NPC.md",
     "Templates/Document Type.md",
     "Templates/Conflict.md",
     "Templates/Condition.md",
     "Templates/Character, minor NPC.md",
-    "Templates/Natural Law.md",
     "{{title}}.md",
     "Templates/Country.md",
     "Templates/Organisation Types.md",
-    "Templates/Organisation.md",
     "Templates/Systems Of Governance.md",
     "Misc/Topics To Consider.md",
     "Misc",
-    "{{Title}}.md",
     "Primer",
     "Templates",
     "TishanLaNotes"
