@@ -1,4 +1,3 @@
-Type;
 - Abyss
 - Archipelago
 - Asteroid

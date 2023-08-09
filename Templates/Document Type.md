@@ -1,103 +1,102 @@
-type;
 - Announcement, Invitation
 - Announcement, RSVP
 - Certificate, Civil
-- Certificate, Professional
 - Certificate, Education (Degree)
-- Contract, Private
+- Certificate, Professional
 - Contract, Civil
-- Decree, Royal
-- Decree, Religious
+- Contract, Private
 - Decree, Governmental
+- Decree, Religious
+- Decree, Royal
 - Guide, Generic
-- Guide, Survival
 - Guide, How-To
-- Identification, Private
+- Guide, Survival
 - Identification, Civil (Passport/ID Card)
+- Identification, Private
 - Imagery, Artistic
 - Imagery, Religious
+- Journal Medical
 - Journal, Personal
 - Journal, Scientific
-- Journal Medical
 - Leaked Original
 - Licence, Civil
-- Licence, Professional
 - Licence, Private (Letter of Marque)
-- Manual, Professional Skills
-- Manual, Military
+- Licence, Professional
 - Manual, Artistic
-- Manual, Martial Art / Combat
 - Manual, Culinary
+- Manual, Linguistic (Lexicon)
 - Manual, Magical / Occult
+- Manual, Martial Art / Combat
+- Manual, Military
+- Manual, Musical
+- Manual, Professional Skills
 - Manual, Scientific
 - Manual, Technical / Blueprint
-- Manual, Musical
-- Manual, Linguistic (Lexicon)
-- Manuscript, Religious
 - Manuscript, Historical
 - Manuscript, Legal
+- Manuscript, Literature
 - Manuscript, Magical (Tome/Scroll)
 - Manuscript, Musical
-- Manuscript, Literature
-- Map, Geological
-- Map, Geopolitical
-- Map, Topographic
-- Map, Survey
-- Map, Military
-- Map, Historical
-- Map, Weather
-- Map, Economic
-- Map, Star chart
-- Map, Thematic
+- Manuscript, Religious
 - Map, Artistic
 - Map, Atlas
+- Map, Economic
 - Map, Floorplan
+- Map, Geological
+- Map, Geopolitical
+- Map, Historical
+- Map, Military
+- Map, Star chart
+- Map, Survey
+- Map, Thematic
+- Map, Topographic
 - Map, Treasure
+- Map, Weather
 - Other, Flyer
 - Other, Poster
-- Record, Patent
-- Record, Culinary (Menu)
-- Record, Judicial
-- Record, Public
-- Record, Financial (Bill, Invoice, Fine, etc)
-- Record, Deed
-- Record, Title
-- Record, Employment
-- Record, Historical
-- Record, Musical (Music, Sheet)
-- Record, Memo
-- Record, Logbook
 - Record, Business Accounts
+- Record, Culinary (Menu)
+- Record, Deed
+- Record, Employment
+- Record, Financial (Bill, Invoice, Fine, etc)
+- Record, Historical
+- Record, Judicial
+- Record, Logbook
+- Record, Memo
+- Record, Musical (Music, Sheet)
+- Record, Patent
+- Record, Public
 - Record, Research Notes
+- Record, Title
 - Record, Transcript (Communication)
 - Report, Civil
+- Report, Financial
+- Report, Incident
+- Report, Intelligence
+- Report, Manifest
 - Report, Military
 - Report, Scientific
-- Report, Intelligence
-- Report, Financial
-- Report, Manifest
-- Report, Incident
-- Statement, Political (Manifesto)
+- Statement, Artistic
 - Statement, Financial
 - Statement, Inscription / Graffiti
-- Statement, Artistic
-- Study, Scientific
+- Statement, Political (Manifesto)
 - Study, Artistic
 - Study, Historical
 - Study, Magical
 - Study, Religious
-- Text, Religious
-- Text, Philosophical
-- Text, Literary (Novel/Poetry)
+- Study, Scientific
+- Textbook
 - Text, Legislative
 - Text, Letter
+- Text, Literary (Novel/Poetry)
 - Text, Literature
-- Text, Newspaper
 - Text, Magazine
-- Textbook
+- Text, Newspaper
+- Text, Philosophical
+- Text, Religious
 - Treaty, Diplomatic
 - Treaty, Trade
-- Warrant, Royal
-- Warrant, Civil
 - Warrant, Arrest
+- Warrant, Civil
+- Warrant, Royal
 - Warrant, Wanted / Search

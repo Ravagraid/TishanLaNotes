@@ -13,34 +13,34 @@ tags:
 <small>Prounciation:</small>
 
 Type;
-- Air Force
 - Airborne
+- Air Force
 - Armour
 - Artillery
 - Cavalry
-- Cyber
 - Containment/Hazmat
 - Covert Ops
+- Cyber
 - Escort
 - Infantry
 - Intelligence
 - Magic
 - Marines
-- Medical
 - Mech
 - Mechanised
+- Medical
 - Mercenary
-- Motorised
 - Militia
+- Motorised
 - Navy
 - Paramilitary
 - Raiding Parties
 - Reserves
 - Security
 - Shock
-- Special Forces
 - Spaceborne
 - Space/EVA
+- Special Forces
 - Support
 ## Composition
 ### Parent Formation

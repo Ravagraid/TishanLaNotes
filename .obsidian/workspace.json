@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26332bffd25c7db4",
+        "id": "b7caf7172c333700",
         "type": "tabs",
         "children": [
           {
-            "id": "88984c0138b2344a",
+            "id": "c666e465c3ca4b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Profession.md",
+                "file": "Templates/Settlement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Profession.md",
+                "file": "Templates/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Profession.md",
+                "file": "Templates/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Profession.md"
+                "file": "Templates/Settlement.md"
               }
             }
           },
@@ -185,34 +185,35 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "88984c0138b2344a",
+  "active": "c666e465c3ca4b40",
   "lastOpenFiles": [
-    "Templates/Material.md",
-    "Templates/Language.md",
-    "Templates/Organisation.md",
-    "Templates/Profession.md",
+    "Templates/Title & Rank.md",
     "Templates/Natural Law.md",
-    "Templates/Myths & Legends.md",
+    "Templates/Title Types.md",
+    "Templates/Settlement.md",
+    "Templates/Profession.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Templates/Document.md",
+    "Templates/Document Type.md",
+    "Templates/Geography Type.md",
+    "Templates/Item Type.md",
+    "Templates/Language.md",
     "Templates/Military Unit.md",
+    "Templates/Organisation Types.md",
+    "Templates/Rank/Title.md",
+    "Templates/Rank",
+    "Templates/Material.md",
+    "Templates/Organisation.md",
+    "Templates/Myths & Legends.md",
     "Templates/Building.md",
     "Templates/Character, Diety.md",
     "Templates/Item.md",
-    "Templates/Item Type.md",
-    "Templates/Document.md",
     "Templates/Ethnicity.md",
-    "Templates/Geography Type.md",
     "Templates/Geography.md",
     "Templates/Character, major NPC.md",
-    "Templates/Document Type.md",
     "Templates/Conflict.md",
-    "Templates/Condition.md",
-    "Templates/Character, minor NPC.md",
-    "{{title}}.md",
-    "Templates/Country.md",
-    "Templates/Organisation Types.md",
-    "Templates/Systems Of Governance.md",
-    "Misc/Topics To Consider.md",
     "Misc",
     "Primer",
     "Templates",
