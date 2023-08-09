@@ -81,6 +81,7 @@ times
 telling
 tasks
 tax
+travelling
 Creation
 Contested
 Claims
@@ -213,6 +214,12 @@ Commissioned
 Ceremonial
 Clerical
 Comparative
+Caravan
+Camp
+Capital
+Conurbation
+Citadel
+Cities
 Date
 Describe
 Does
@@ -288,6 +295,9 @@ Doctorate
 Do
 Duties
 Dismissal
+District
+Define
+Districts
 Planet
 Parent
 Phenomena
@@ -469,6 +479,7 @@ degree
 dress
 dismissed
 defined
+distributed
 small
 sea
 special
@@ -599,6 +610,11 @@ students
 social
 stables
 still
+settlement
+standing
+spirits
+sewers
+shipyards
 pronunciation
 plain
 populations
@@ -704,6 +720,8 @@ parts
 professions
 proclaimed
 procedure
+planetary
+permanent
 Introduction
 Is
 Important
@@ -750,6 +768,7 @@ Industrial
 Impact
 Items
 Informal
+Inhabitants
 Location
 Landmarks
 Local
@@ -803,6 +822,7 @@ Legality
 Loyalties
 Lord
 Laird
+Large
 align
 access
 at
@@ -906,6 +926,11 @@ acquiring
 applying
 age
 ancestor
+additional
+accounted
+armies
+amongst
+alive
 right
 rolling
 river
@@ -981,6 +1006,11 @@ rank
 report
 raised
 redundant
+range
+ruin
+rulers
+run
+roads
 System
 Settlements
 Specialised
@@ -1110,6 +1140,8 @@ Self
 Source
 Seaman
 Should
+Slum
+Starbase
 Ruling
 Region
 Resources
@@ -1177,6 +1209,8 @@ Royalty
 Requirements
 Responsibilities
 Removal
+Ruler
+Rulers
 Body
 Belief
 Background
@@ -1224,6 +1258,7 @@ Borderlands
 Benefits
 Beatified
 Bachelor
+Became
 Alternative
 Are
 Alterations
@@ -1312,6 +1347,8 @@ Authority
 Admiral
 Appointment
 Accoutrements
+Arcology
+Additional
 Names
 Notable
 Natural
@@ -1341,6 +1378,8 @@ Number
 Note
 Nobility
 Non
+Neighbourhood
+National
 Geography
 Goods
 Greetings
@@ -1387,6 +1426,7 @@ Generation
 Grim
 Granted
 Graff
+Guilds
 location
 lake
 landmarks
@@ -1495,6 +1535,7 @@ gives
 getting
 giving
 grounds
+granularly
 features
 fresh
 ferrous
@@ -1560,6 +1601,8 @@ fabric
 fulfils
 furniture
 fittings
+founded
+furnaces
 mountain
 most
 monsoon
@@ -1635,6 +1678,8 @@ maximum
 moral
 morale
 mucking
+merchants
+machine
 or
 of
 ocean
@@ -1679,6 +1724,9 @@ operates
 overall
 operations
 obligations
+owner
+ownership
+own
 hills
 have
 hail
@@ -1776,6 +1824,9 @@ ingots
 ink
 inherit
 interpreted
+included
+island
+itenerant
 water
 whether
 wildlife
@@ -1835,6 +1886,9 @@ worship
 ways
 wearables
 wooden
+whole
+watermills
+windmills
 via
 views
 vistas
@@ -1847,6 +1901,7 @@ victims
 valid
 vehicles
 variants
+visitors
 edge
 environment
 ecosystem
@@ -1919,6 +1974,7 @@ equivalant
 exam
 eligible
 engines
+entrepreneurial
 You
 Year
 can
@@ -2052,6 +2108,12 @@ calculating
 corporate
 ceremonial
 charter
+continent
+cities
+claims
+census
+consideration
+courtyards
 natural
 near
 nearby
@@ -2080,6 +2142,7 @@ nicknames
 number
 new
 needs
+nest
 beauty
 biological
 balls
@@ -2144,6 +2207,9 @@ bridges
 basic
 byproducts
 benefits
+became
+built
+blast
 How
 History
 Heavy
@@ -2185,6 +2251,7 @@ Household
 Has
 Holder
 Holders
+Hamlet
 Ecosystem
 Education
 Equipment
@@ -2238,6 +2305,9 @@ Ethics
 Environmental
 Emperor
 Equates
+Ecumenopolis
+Earldom
+Earl
 Think
 The
 Tourism
@@ -2323,6 +2393,7 @@ Torchlight
 Tribes
 Transport
 Tools
+Temporary
 year
 you
 your
@@ -2451,6 +2522,7 @@ Wormholes
 Will
 Workplace
 Was
+Ward
 Main
 Mineral
 Military
@@ -2547,6 +2619,9 @@ Must
 Midgard
 Mythology
 Monetary
+Metropolis
+Megalopolis
+Mayor
 Owning
 Origins
 Organisations
@@ -2580,6 +2655,10 @@ Overall
 Orcs
 Oil
 Or
+Outpost
+Orbital
+Owner
+Owners
 Job
 Judicial
 Journal
@@ -2611,6 +2690,7 @@ Quadrant
 Qualifications
 Qualification
 Queen
+Quarter
 kg
 knowledge
 known
@@ -2619,6 +2699,7 @@ kind
 kingdoms
 key
 king
+keep
 Vehicle
 Viral
 Vectors
@@ -2644,6 +2725,7 @@ Veteran
 Vehicles
 Variations
 Value
+Vault
 quirk
 quirks
 quickly
@@ -2658,6 +2740,7 @@ Kakistocracy
 Kratocracy
 Kritarchy
 Knights
+Kingdoms
 zone
 jurisdiction
 join
