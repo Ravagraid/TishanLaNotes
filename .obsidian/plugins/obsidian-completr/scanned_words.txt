@@ -82,6 +82,8 @@ telling
 tasks
 tax
 travelling
+thriving
+trading
 Creation
 Contested
 Claims
@@ -405,6 +407,8 @@ Payment
 Perception
 Provided
 Past
+Palisades
+Points
 date
 do
 develop
@@ -480,6 +484,11 @@ dress
 dismissed
 defined
 distributed
+district
+division
+direction
+development
+deadly
 small
 sea
 special
@@ -615,6 +624,14 @@ standing
 spirits
 sewers
 shipyards
+sub
+stores
+sure
+safe
+specifications
+stays
+smallest
+sheeps
 pronunciation
 plain
 populations
@@ -722,6 +739,7 @@ proclaimed
 procedure
 planetary
 permanent
+politics
 Introduction
 Is
 Important
@@ -769,6 +787,7 @@ Impact
 Items
 Informal
 Inhabitants
+Interest
 Location
 Landmarks
 Local
@@ -931,6 +950,8 @@ accounted
 armies
 amongst
 alive
+arrays
+afloat
 right
 rolling
 river
@@ -1487,6 +1508,7 @@ land
 length
 limit
 lifetime
+layers
 geographic
 grow
 govern
@@ -1603,6 +1625,8 @@ furniture
 fittings
 founded
 furnaces
+formal
+fortune
 mountain
 most
 monsoon
@@ -1680,6 +1704,8 @@ morale
 mucking
 merchants
 machine
+moats
+metropolicies
 or
 of
 ocean
@@ -1727,6 +1753,7 @@ obligations
 owner
 ownership
 own
+open
 hills
 have
 hail
@@ -1778,6 +1805,7 @@ hereditary
 heigher
 had
 holder
+hall
 it
 interact
 interaction
@@ -1827,6 +1855,11 @@ interpreted
 included
 island
 itenerant
+informal
+inhabitants
+imports
+interest
+impressive
 water
 whether
 wildlife
@@ -1889,6 +1922,7 @@ wooden
 whole
 watermills
 windmills
+wanderer
 via
 views
 vistas
@@ -1902,6 +1936,7 @@ valid
 vehicles
 variants
 visitors
+valuables
 edge
 environment
 ecosystem
@@ -1975,6 +2010,7 @@ exam
 eligible
 engines
 entrepreneurial
+exports
 You
 Year
 can
@@ -2483,6 +2519,7 @@ Fame
 Famous
 Familial
 Form
+Factions
 Wood
 What
 Where

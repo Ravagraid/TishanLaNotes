@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Settlement.md",
+                "file": "Templates/Species.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Settlement.md",
+                "file": "Templates/Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Settlement.md",
+                "file": "Templates/Species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Settlement.md"
+                "file": "Templates/Species.md"
               }
             }
           },
@@ -187,10 +187,11 @@
   },
   "active": "c666e465c3ca4b40",
   "lastOpenFiles": [
+    "Templates/Settlement.md",
+    "Templates/Species.md",
     "Templates/Geography.md",
     "Templates/Geography Type.md",
     "Templates/Building.md",
-    "Templates/Settlement.md",
     "Templates/Title & Rank.md",
     "Templates/Natural Law.md",
     "Templates/Title Types.md",
@@ -213,7 +214,6 @@
     "Templates/Item.md",
     "Templates/Ethnicity.md",
     "Templates/Character, major NPC.md",
-    "Templates/Conflict.md",
     "Misc",
     "Primer",
     "Templates",
