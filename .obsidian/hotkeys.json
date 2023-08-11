@@ -1,3 +1,12 @@
 {
-  "global-search:open": []
+  "global-search:open": [],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
 }

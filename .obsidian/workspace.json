@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Species.md",
+                "file": "Templates/Magic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Species.md",
+                "file": "Templates/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Species.md",
+                "file": "Templates/Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Species.md"
+                "file": "Templates/Magic.md"
               }
             }
           },
@@ -187,33 +187,34 @@
   },
   "active": "c666e465c3ca4b40",
   "lastOpenFiles": [
-    "Templates/Settlement.md",
-    "Templates/Species.md",
-    "Templates/Geography.md",
-    "Templates/Geography Type.md",
     "Templates/Building.md",
+    "Templates/Magic.md",
+    "Templates/Type Lists/Organisation Types.md",
+    "Templates/Document.md",
+    "Templates/Conflict.md",
+    "Templates/Character, minor NPC.md",
+    "Templates/Type Lists/Document Type.md",
+    "Templates/Condition.md",
+    "Templates/Type Lists/Government Types.md",
+    "Templates/Type Lists/Title Types.md",
+    "Templates/Species.md",
+    "Templates/Type Lists",
+    "Templates/Settlement.md",
+    "Templates/Geography.md",
+    "Templates/Type Lists/Geography Type.md",
     "Templates/Title & Rank.md",
     "Templates/Natural Law.md",
-    "Templates/Title Types.md",
     "Templates/Profession.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Templates/Document.md",
-    "Templates/Document Type.md",
     "Templates/Item Type.md",
     "Templates/Language.md",
     "Templates/Military Unit.md",
-    "Templates/Organisation Types.md",
     "Templates/Rank/Title.md",
     "Templates/Rank",
     "Templates/Material.md",
     "Templates/Organisation.md",
-    "Templates/Myths & Legends.md",
-    "Templates/Character, Diety.md",
-    "Templates/Item.md",
-    "Templates/Ethnicity.md",
-    "Templates/Character, major NPC.md",
     "Misc",
     "Primer",
     "Templates",

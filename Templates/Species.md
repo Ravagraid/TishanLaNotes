@@ -62,3 +62,26 @@ The biological traits of a species define variations between life span, life exp
 If the species is domesticated, what is the process and which are the morphological and psychological traits that the process altered.
 ### Uses, Byproducts & Exploitation
 How is the species being used, examples would be grains as food staples, chickens as egg producers, hemp used in the production of linen, cows for meat and leather etc.
+## Sapience
+Keep in mind that these are meant as a general understanding of the social structure of the species. Languages, technologies etc can vary from one organization (state, kingdom etc) to another or between geographic locations.
+### History
+### Naming Traditions
+Male and female firstnames, common lastnames and naming schemes and traditions.
+### Major Organisations
+Major political factions/states/kingdoms. Organized religious establishments, Hidden and/or illegal networks, plots and factions.
+### Beauty Ideals
+### Gender Ideals
+### Courtship Ideals
+### Relationship Ideals
+### Attained Technological Level
+Major discoveries, inventions and commonly used items.
+### Major Language Groups And Dialects
+### Common Etiquette
+### Dress Code
+### Culture And Cultural Heritage`
+### Common Customs And Observed Traditions
+### Taboos
+### Myths & Legends
+### Major Historical Figures
+### Interspecies Relations
+The views of the species on other sapient/intelligent or otherwise species.

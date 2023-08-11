@@ -78,7 +78,7 @@ Emperors, Queens, Presidents and other individuals that embody the outward face 
 The individual or group that holds true power within the organisation, and thus is able to make decisions. The Head of Power and Head of Ceremony may or may not be the same person, depending on the given organisation.
 
 ### System of Governance
-Type; See [[Systems Of Governance]]
+Type; See [[Government Types]]
 
 ### Power Structure
 Type and explanation of;
