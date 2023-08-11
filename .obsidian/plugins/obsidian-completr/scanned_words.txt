@@ -89,6 +89,7 @@ third
 therefore
 taken
 traits
+tall
 Creation
 Contested
 Claims
@@ -429,6 +430,7 @@ Points
 Phylum
 Psychology
 Physique
+Participants
 date
 do
 develop
@@ -676,6 +678,9 @@ subgroups
 staples
 schemes
 sapient
+signify
+spices
+simple
 pronunciation
 plain
 populations
@@ -798,6 +803,7 @@ predators
 predated
 psychological
 producers
+pole
 Introduction
 Is
 Important
@@ -1019,6 +1025,7 @@ ancestries
 allows
 averages
 altered
+attends
 right
 rolling
 river
@@ -1103,6 +1110,8 @@ residue
 rare
 receive
 reproduces
+ribbons
+rites
 System
 Settlements
 Specialised
@@ -1309,6 +1318,7 @@ Ruler
 Rulers
 Reproduction
 Rate
+Roles
 Body
 Belief
 Background
@@ -1606,6 +1616,7 @@ limbs
 linen
 leather
 lastnames
+lunar
 geographic
 grow
 govern
@@ -1740,6 +1751,8 @@ focus
 forage
 female
 firstnames
+formulaic
+foodstuff
 mountain
 most
 monsoon
@@ -1882,6 +1895,7 @@ organs
 occasions
 offspring
 optimal
+observed
 hills
 have
 hail
@@ -1996,6 +2010,7 @@ interest
 impressive
 inventions
 intelligent
+icons
 water
 whether
 wildlife
@@ -2163,6 +2178,10 @@ exhibited
 expectancy
 examples
 egg
+emerged
+evolve
+execution
+extending
 You
 Year
 can
@@ -2310,6 +2329,11 @@ chimera
 changes
 chickens
 cows
+custom
+colourful
+ceremonies
+calendar
+calculation
 natural
 near
 nearby
@@ -2412,6 +2436,7 @@ blast
 botch
 breeds
 biology
+begin
 How
 History
 Heavy
@@ -2522,6 +2547,7 @@ Extrasensory
 Echolocation
 Ecology
 Exploitation
+Execution
 Think
 The
 Tourism
@@ -2885,6 +2911,7 @@ Outpost
 Orbital
 Owner
 Owners
+Observance
 Job
 Judicial
 Journal
@@ -2960,6 +2987,7 @@ quickly
 qualifications
 qualification
 quite
+question
 Zero
 Known
 Knightly
@@ -2971,6 +2999,7 @@ Kritarchy
 Knights
 Kingdoms
 Keep
+Key
 zone
 jurisdiction
 join

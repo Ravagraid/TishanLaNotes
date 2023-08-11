@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Traditions & Rituals.md",
+                "file": "Templates/Vehicle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Traditions & Rituals.md",
+                "file": "Templates/Vehicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Traditions & Rituals.md",
+                "file": "Templates/Vehicle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Traditions & Rituals.md"
+                "file": "Templates/Vehicle.md"
               }
             }
           },
@@ -185,10 +184,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c666e465c3ca4b40",
+  "active": "cfa8a637bb79ad76",
   "lastOpenFiles": [
-    "Templates/Technology.md",
     "Templates/Traditions & Rituals.md",
+    "Templates/Vehicle.md",
+    "Templates/Technology.md",
     "Templates/Species.md",
     "Templates/Magic.md",
     "Templates/Building.md",
@@ -213,7 +213,6 @@
     "Templates/Item Type.md",
     "Templates/Language.md",
     "Templates/Military Unit.md",
-    "Templates/Rank/Title.md",
     "Templates/Rank",
     "Misc",
     "Primer",
