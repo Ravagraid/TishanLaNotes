@@ -4,21 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "b7caf7172c333700",
+        "id": "ff1855812c5394ba",
         "type": "tabs",
+        "dimension": 71.89737470167064,
         "children": [
           {
-            "id": "c666e465c3ca4b40",
+            "id": "71a181e6127d8856",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Templates/Vehicle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/community-plugins.json",
+                "staged": false
               }
-            }
+            },
+            "group": "cf2cc4ed56977145"
+          }
+        ]
+      },
+      {
+        "id": "dab4959a23fead44",
+        "type": "tabs",
+        "dimension": 28.102625298329354,
+        "children": [
+          {
+            "id": "93b542f7462ae72f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Longform Project/Primer/Introduction.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              }
+            },
+            "group": "cf2cc4ed56977145"
           }
         ]
       }
@@ -67,7 +110,7 @@
             }
           },
           {
-            "id": "2a8bfabf0ca78a27",
+            "id": "449a512a8af22e35",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -75,14 +118,15 @@
             }
           },
           {
-            "id": "dc19c3383f0f2999",
+            "id": "9dbc2c313bf2e1ec",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -102,14 +146,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Vehicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -119,9 +162,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Vehicle.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,7 +174,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -141,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Vehicle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,42 +219,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cfa8a637bb79ad76",
+  "active": "71a181e6127d8856",
   "lastOpenFiles": [
-    "Templates/Traditions & Rituals.md",
+    "Longform Project/Primer/Introduction.md",
+    "@Tishan'La.md",
+    "Templates/Character, Diety.md",
+    "Templates/Ethnicity.md",
+    "Templates/Magic.md",
+    "Templates/Type Lists/Document Type.md",
+    "Templates/Document.md",
+    "Templates/Building.md",
+    "Longform Project/Primer/Index.md",
+    "Templates/Organisation.md",
+    "Templates/Type Lists/Organisation Types.md",
+    "Templates/Type Lists/Government Types.md",
+    "Templates/Character, major NPC.md",
+    "Longform Project/Primer",
+    "Longform Project",
+    "Primer/Tishan'La/Index.md",
+    "Primer/Tishan'La",
+    "Primer",
+    "Templates/Character, minor NPC.md",
     "Templates/Vehicle.md",
+    "Templates/Traditions & Rituals.md",
     "Templates/Technology.md",
     "Templates/Species.md",
-    "Templates/Magic.md",
-    "Templates/Building.md",
-    "Templates/Type Lists/Organisation Types.md",
-    "Templates/Document.md",
     "Templates/Conflict.md",
-    "Templates/Character, minor NPC.md",
-    "Templates/Type Lists/Document Type.md",
     "Templates/Condition.md",
-    "Templates/Type Lists/Government Types.md",
     "Templates/Type Lists/Title Types.md",
     "Templates/Type Lists",
     "Templates/Settlement.md",
     "Templates/Geography.md",
     "Templates/Type Lists/Geography Type.md",
     "Templates/Title & Rank.md",
-    "Templates/Natural Law.md",
-    "Templates/Profession.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Templates/Item Type.md",
-    "Templates/Language.md",
-    "Templates/Military Unit.md",
     "Templates/Rank",
     "Misc",
-    "Primer",
     "Templates",
     "TishanLaNotes"
   ]

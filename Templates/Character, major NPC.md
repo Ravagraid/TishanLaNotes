@@ -15,10 +15,10 @@ tags:
 
 Type; 
 
-	Plotter – Long term (Recurring character, provides long term value to the group)
-	Plotter – Supporter (Someone that supports the party in their endeavours. Procuring supplies, being the pilot of their airship, that sort of thing.)
-	Plotter - Guide (NPC that guides other characters throughout the story being told.)
-	Plotter - Advancer (Similar to a Guide, though rather than simply showing the way, they advance the story.)
+- Plotter – Long term (Recurring character, provides long term value to the group)
+- Plotter – Supporter (Someone that supports the party in their endeavours. Procuring supplies, being the pilot of their airship, that sort of thing.)
+- Plotter - Guide (NPC that guides other characters throughout the story being told.)
+- Plotter - Advancer (Similar to a Guide, though rather than simply showing the way, they advance the story.)
 
 
 Titles and honorifics
