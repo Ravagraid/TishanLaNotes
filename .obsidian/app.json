@@ -6,5 +6,9 @@
   "showInlineTitle": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Tishan",
+    "Tishan"
+  ]
 }

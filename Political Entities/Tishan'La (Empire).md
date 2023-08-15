@@ -1,17 +1,24 @@
 ---
-title: {{title}}
-Creation Date: {{date}}
+title: Tishan'La (Empire)
+Creation Date: 15-08-2023
 tags:
 - Template
 - Organisation
-- 
+- Geopolitical
+- Empire
 ---
 
-# [[{{title}}]]
-<small>Pronunciation:</small>
-
+# Tishan'La (Empire)
+<small>Pronunciation: (Shi-An-La)</small>
+<small>Type: Geopolitical, Empire</small>
 ## Introduction
+&emsp;The Empire of Tishan’La is a sovereign, interstellar nation state that spans three Spheres thus far, with plans to expand further afield into what has commonly been called the [[Far Realms]], a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the empty void. The Empire itself has conducted many a census in the past, but due to clerical errors, Byzantine bureaucracy, and in some cases the destruction of the records wholesale, the exact number of individuals within the Empire cannot be ascertained. Due to this, only an approximation from prior attempts at a national census, currently exists. This number, though widely disputed by many, ranges between 30 and 40 billion souls at its current peak, though there have been instances where that number was drastically reduced, to half if not less.
 
+&emsp;The government functions much like a feudal empire, where power is held supremely by the [[Lord Imperatorius]] first, then trickled down to the many ranks beneath him. While this system might mirror the governments of old in many respects, the Empire is still more centralised than its appearance might suggest, as per royal decree, a census of each region is undertaken every [[Tishan'La'Ni Calendar|Decia]], or decade, to ensure that the funds of the [[Tishan'La (World)|Throneworld]] are spent only in areas where it is most necessary to do so.
+
+&emsp;Due to the nature of governing such a vast territory, the Empire runs through a form of tithe, or taxation in which those nobles of the [[Lords Proliferate]] must pay a tax. This tax can be given in many ways, determined by the needs of the empire, and the whims of its ruler, whether it be material wealth, a labour force, or even in a standing military force. Those that do not are swiftly rebuked, and in prior epochs, such disdainful behaviour has even brought about reproach of a most violent nature, to instil fear, or to install another noble in place of the old. This has led to many a regional regime change, though few are loath to admit to such a thing.
+
+&emsp;One area of note is its people, the stalwart shianlani, or [[Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but they, by their conviction and their stubbornness, are Tishan’La’Ni in spirit as in body.
 ## General information
 ### Motto/Slogan/Axiom
 Two words to a sentence which defines this organisation. Commonly found on its crest.
@@ -164,62 +171,3 @@ What are the physical assets of your organization which assure its health and we
 
 ### Technological and Scientific Level
 Which technologies are widely available to the citizens of this nation and which groundbreaking achievements give its military an edge? Any specific technologies the nation has developed or manufactures domestically?
-
-## Religious
-This section is only important if the organisation is religious in nature.
-
-### Deities
-Which are the Deities that this religion recognises and prays to?
-
-### Mythology
-What mythology/forgotten history underpins the basis and teachings of this religion? Consider garden of Eden, Creation myth, The stories of the ancient gods and heroes of ages passed.
-
-### Origins
-Where did this religion come from? Where did the teachings, beliefs and sacrosanct rituals develop?
-
-### Cosmology
-What is the understanding of the world and its creation according to this religion?
-
-### Tenets Of Faith
-What are the basic rules/laws/commandments that define and guide the faithful of this religion?
-
-### Priesthood
-Who guides the faithful of this religion? How are they appointed? How are they distinguished from the rest of the flock?
-
-### Ethics
-What are the extended rules, and interpretations of the tenets of faith which guide the every day lives and decisions of the faithful? What is considered a sin or a pious act?
-
-### Granted Divine Powers
-What are the supernatural powers granted to the priests or the faithful of this religion?
-
-### Political Intrigue & Influence
-How does this religion affect the political fabric of the organizations that it has permeated?
-
-### Worship
-How does one worship in this religion? What are the everyday or regular practices, rituals and traditions of the faithful?
-
-### Sects
-What factions and sects exist within the confines of this religion? How do they differ from the main dogma? How are they characterised and perceived by the mainstream faith?
-
-## Military
-
-### Formation Type
-Will figure that part out later.
-
-### Training Level
-Level;
-- Untrained
-- Levy
-- Semi-Trained
-- Trained
-- Semi-Professional
-- Professional 
-- Elite
-
-### Veterancy
-Level;
-- Recruit
-- Trained
-- Experienced
-- Veteran
-- Decorated/Honoured

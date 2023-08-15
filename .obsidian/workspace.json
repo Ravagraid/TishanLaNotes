@@ -6,26 +6,28 @@
       {
         "id": "ff1855812c5394ba",
         "type": "tabs",
-        "dimension": 71.89737470167064,
+        "dimension": 73.77521613832853,
         "children": [
           {
             "id": "71a181e6127d8856",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Political Entities/Tishan'La (Empire).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             },
-            "group": "cf2cc4ed56977145"
+            "group": "45a8464746451a6a"
           }
         ]
       },
       {
         "id": "dab4959a23fead44",
         "type": "tabs",
-        "dimension": 28.102625298329354,
+        "dimension": 26.22478386167147,
         "children": [
           {
             "id": "93b542f7462ae72f",
@@ -33,21 +35,21 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Longform Project/Primer/Introduction.md",
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
+                  "collapse-display": true,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -56,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.7132754626224431,
                   "close": true
                 }
               }
             },
-            "group": "cf2cc4ed56977145"
+            "group": "45a8464746451a6a"
           }
         ]
       }
@@ -146,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,8 +165,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -183,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Political Entities/Tishan'La (Empire).md"
+              }
             }
           },
           {
@@ -207,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,20 +230,24 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "71a181e6127d8856",
+  "active": "93b542f7462ae72f",
   "lastOpenFiles": [
+    "Political Entities/Tishan'La (Empire).md",
     "Longform Project/Primer/Introduction.md",
+    "Longform Project/Primer/Index.md",
+    "Templates/Type Lists/Government Types.md",
+    "Templates/Type Lists/Organisation Types.md",
+    "Templates/Type Lists/Geography Type.md",
+    "Templates/Type Lists/Document Type.md",
+    "Templates/Organisation.md",
+    "Political Entities",
+    "Templates/Species.md",
     "@Tishan'La.md",
     "Templates/Character, Diety.md",
     "Templates/Ethnicity.md",
     "Templates/Magic.md",
-    "Templates/Type Lists/Document Type.md",
     "Templates/Document.md",
     "Templates/Building.md",
-    "Longform Project/Primer/Index.md",
-    "Templates/Organisation.md",
-    "Templates/Type Lists/Organisation Types.md",
-    "Templates/Type Lists/Government Types.md",
     "Templates/Character, major NPC.md",
     "Longform Project/Primer",
     "Longform Project",
@@ -247,15 +258,12 @@
     "Templates/Vehicle.md",
     "Templates/Traditions & Rituals.md",
     "Templates/Technology.md",
-    "Templates/Species.md",
     "Templates/Conflict.md",
     "Templates/Condition.md",
     "Templates/Type Lists/Title Types.md",
     "Templates/Type Lists",
     "Templates/Settlement.md",
     "Templates/Geography.md",
-    "Templates/Type Lists/Geography Type.md",
-    "Templates/Title & Rank.md",
     "Templates/Rank",
     "Misc",
     "Templates",
