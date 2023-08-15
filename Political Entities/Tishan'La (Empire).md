@@ -12,7 +12,7 @@ tags:
 <small>Pronunciation: (Shi-An-La)</small>
 <small>Type: Geopolitical, Empire</small>
 ## Introduction
-&emsp;The Empire of Tishan’La is a sovereign, interstellar nation state that spans three Spheres thus far, with plans to expand further afield into what has commonly been called the [[Far Realms]], a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the empty void. The Empire itself has conducted many a census in the past, but due to clerical errors, Byzantine bureaucracy, and in some cases the destruction of the records wholesale, the exact number of individuals within the Empire cannot be ascertained. Due to this, only an approximation from prior attempts at a national census, currently exists. This number, though widely disputed by many, ranges between 30 and 40 billion souls at its current peak, though there have been instances where that number was drastically reduced, to half if not less.
+&emsp;The Empire of Tishan’La is a sovereign, interstellar nation state that spans three Spheres thus far, with plans to expand further afield into what has commonly been called the [[Far Realms]], a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the empty void. The Empire itself has conducted many a census in the past, but due to clerical errors, Byzantine bureaucracy, and in some cases the destruction of the records wholesale, the exact number of individuals within the Empire cannot be ascertained. Due to this, only an approximation from prior attempts at a national census, currently exists. This number, though widely disputed by many, ranges between 39 and 40 billion souls at its current peak, though there have been instances where that number was drastically reduced, to half if not less.
 
 &emsp;The government functions much like a feudal empire, where power is held supremely by the [[Lord Imperatorius]] first, then trickled down to the many ranks beneath him. While this system might mirror the governments of old in many respects, the Empire is still more centralised than its appearance might suggest, as per royal decree, a census of each region is undertaken every [[Tishan'La'Ni Calendar|Decia]], or decade, to ensure that the funds of the [[Tishan'La (World)|Throneworld]] are spent only in areas where it is most necessary to do so.
 
@@ -38,8 +38,11 @@ tags:
 ### Recognised Ethnicities
 &emsp;While listing every ethnicity within the empire might be an impossible task, due to just how many groups exist within the empires borders, though with that being said, the shared identity of the empire is of course, [[Tishan'La'Ni (Culture)|Tishan'La'Ni]], though often this is conflated with national identity, or as some would say; “I may be Ceehur, but I am Tishan'La'Ni, same as you.”
 
+&emsp;Beyond belonging to the empire's group, some cultures have persisted since before their absorption into the empire proper, such as the Kahlkili, whose cultural ties to their [[Great Tapestry]] defy even the understanding of the most expert of scholars. Though perhaps the most prominent divide in their culture, is that of [[The Hive]], and [[The Hiveless]], whose constant internal struggles often leave carnage in their wake.
+
+&emsp;Contrasting these otherwise centralised cultural identities, the Yiale are, by their nature, fragmentary, with each flock holding its own ties, its own customs and ceremonies. In some cases, even their own version of the greater Yiale tongue, known as 
 ### Organisation Structure
-The organization's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organization. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
+The organization's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organisation. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
 
 ### Culture
 An organization's culture determines the way that its members/citizens perceive and react to the world around them. Their core beliefs and customs fall under culture.

@@ -108,6 +108,9 @@ tongue
 then
 trickled
 things
+tyrannical
+truly
+totalling
 Creation
 Contested
 Claims
@@ -260,6 +263,7 @@ Cargo
 Capacity
 Communications
 Casting
+Ceehur
 Date
 Describe
 Does
@@ -580,6 +584,9 @@ disputes
 despite
 determined
 depicts
+double
+divisive
+divinity
 small
 sea
 special
@@ -782,6 +789,11 @@ spirit
 supremely
 suns
 statement
+spoken
+said
+spreading
+shared
+say
 pronunciation
 plain
 populations
@@ -929,6 +941,8 @@ per
 pride
 petty
 pedestal
+polities
+percent
 Introduction
 Is
 Important
@@ -1180,6 +1194,8 @@ admit
 argument
 approximation
 arises
+actually
+am
 right
 rolling
 river
@@ -1299,6 +1315,7 @@ rife
 ruler
 rampant
 rise
+reigning
 System
 Settlements
 Specialised
@@ -1439,6 +1456,7 @@ Systems
 Sensors
 Shi
 Spheres
+Subjects
 Ruling
 Region
 Resources
@@ -1571,6 +1589,7 @@ Byproducts
 Beam
 Barbarians
 Byzantine
+Beyond
 Alternative
 Are
 Alterations
@@ -1844,6 +1863,8 @@ labour
 lead
 loath
 led
+lorded
+listing
 geographic
 grow
 govern
@@ -1913,6 +1934,8 @@ governing
 government
 grace
 go
+grip
+greater
 features
 fresh
 ferrous
@@ -2010,6 +2033,7 @@ force
 fear
 fragmented
 functions
+fact
 mountain
 most
 monsoon
@@ -2111,6 +2135,9 @@ manner
 merely
 maintain
 mirror
+meaning
+majority
+minority
 or
 of
 ocean
@@ -2171,6 +2198,7 @@ old
 obvious
 onto
 occupied
+overlord
 hills
 have
 hail
@@ -2304,6 +2332,7 @@ instances
 instil
 install
 independence
+impossible
 water
 whether
 wildlife
@@ -2515,6 +2544,7 @@ errors
 exact
 ensure
 epochs
+empires
 You
 Year
 can
@@ -2692,6 +2722,10 @@ conflicts
 conviction
 collective
 claim
+correct
+context
+cosmos
+conflated
 natural
 near
 nearby
@@ -2730,6 +2764,7 @@ notably
 nobles
 note
 noble
+negotiations
 beauty
 biological
 balls
@@ -2820,6 +2855,7 @@ beneath
 bold
 brazen
 banner
+belonging
 How
 History
 Heavy
@@ -3371,6 +3407,7 @@ key
 king
 keep
 keeps
+kinds
 Vehicle
 Viral
 Vectors

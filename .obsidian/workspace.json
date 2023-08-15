@@ -15,9 +15,9 @@
               "type": "markdown",
               "state": {
                 "file": "Political Entities/Tishan'La (Empire).md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             },
             "group": "45a8464746451a6a"
@@ -58,7 +58,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224442,
+                  "scale": 0.7132754626224446,
                   "close": true
                 }
               }
@@ -155,7 +155,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -208,8 +208,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,9 +232,9 @@
   "active": "71a181e6127d8856",
   "lastOpenFiles": [
     "Political Entities/Tishan'La (Empire).md",
+    "Templates/Type Lists/Government Types.md",
     "Longform Project/Primer/Introduction.md",
     "Longform Project/Primer/Index.md",
-    "Templates/Type Lists/Government Types.md",
     "Templates/Type Lists/Organisation Types.md",
     "Templates/Type Lists/Geography Type.md",
     "Templates/Type Lists/Document Type.md",
