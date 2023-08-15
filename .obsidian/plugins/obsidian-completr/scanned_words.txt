@@ -577,6 +577,7 @@ decade
 disdainful
 disputes
 despite
+determined
 small
 sea
 special
@@ -1287,6 +1288,8 @@ regional
 regime
 realm
 rife
+ruler
+rampant
 System
 Settlements
 Specialised
@@ -2362,6 +2365,7 @@ wizards
 warmth
 wholesale
 while
+whims
 via
 views
 vistas
@@ -2708,6 +2712,7 @@ notibly
 notably
 nobles
 note
+noble
 beauty
 biological
 balls
@@ -3044,6 +3049,7 @@ unicorn
 underwater
 undertaken
 unity
+unchecked
 Flora
 Fauna
 Festivals

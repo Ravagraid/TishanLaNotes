@@ -18,13 +18,13 @@ tags:
 
 &emsp;Due to the nature of governing such a vast territory, the Empire runs through a form of tithe, or taxation in which those nobles of the [[Lords Proliferate]] must pay a tax. This tax can be given in many ways, determined by the needs of the empire, and the whims of its ruler, whether it be material wealth, a labour force, or even in a standing military force. Those that do not are swiftly rebuked, and in prior epochs, such disdainful behaviour has even brought about reproach of a most violent nature, to instil fear, or to install another noble in place of the old. This has led to many a regional regime change, though few are loath to admit to such a thing.
 
-&emsp;One area of note is its people, the stalwart shianlani, or [[Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but they, by their conviction and their stubbornness, are Tishan’La’Ni in spirit as in body.
+&emsp;One area of note is its people, the stalwart shianlani, or [[Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but it is this unity of purpose, this collective pride in themselves as a nation, that allows them to see past such petty things when the need arises.
 ## General information
 ### Motto/Slogan/Axiom
-Two words to a sentence which defines this organisation. Commonly found on its crest.
+"Once We Fell, Now We Rise!" - If ever one were to look upon the heraldry of Tishan'La as an empire, they would see these words, bold and brazen beneath the banner that depicts their three suns. It is a statement about their past, about their grand fall from grace, and their claim to rise not only onto the pedestal that they once occupied, but to go beyond even that; into the heavens themselves.
 
 ### Alternative Names
-Other names the organisation might be known by. Abbreviations, slang, former names etc.
+The Solar Empire Of Tishan'La. 
 
 ### Demonym
 Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example, “French” is the demonym for someone from France.
