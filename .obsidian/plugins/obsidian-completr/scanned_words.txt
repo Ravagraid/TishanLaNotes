@@ -107,6 +107,7 @@ tithe
 tongue
 then
 trickled
+things
 Creation
 Contested
 Claims
@@ -578,6 +579,7 @@ disdainful
 disputes
 despite
 determined
+depicts
 small
 sea
 special
@@ -778,6 +780,8 @@ streak
 stubbornness
 spirit
 supremely
+suns
+statement
 pronunciation
 plain
 populations
@@ -922,6 +926,9 @@ proper
 prior
 peak
 per
+pride
+petty
+pedestal
 Introduction
 Is
 Important
@@ -1172,6 +1179,7 @@ areas
 admit
 argument
 approximation
+arises
 right
 rolling
 river
@@ -1290,6 +1298,7 @@ realm
 rife
 ruler
 rampant
+rise
 System
 Settlements
 Specialised
@@ -1698,6 +1707,7 @@ Needs
 NCC
 Noble
 Ni
+Now
 Geography
 Goods
 Greetings
@@ -1901,6 +1911,8 @@ governance
 governments
 governing
 government
+grace
+go
 features
 fresh
 ferrous
@@ -2157,6 +2169,8 @@ once
 oceans
 old
 obvious
+onto
+occupied
 hills
 have
 hail
@@ -2222,6 +2236,7 @@ heavens
 hours
 hard
 harsher
+heraldry
 it
 interact
 interaction
@@ -2675,6 +2690,8 @@ current
 centralised
 conflicts
 conviction
+collective
+claim
 natural
 near
 nearby
@@ -2800,6 +2817,9 @@ brought
 born
 both
 beneath
+bold
+brazen
+banner
 How
 History
 Heavy
@@ -3116,6 +3136,7 @@ Facial
 Features
 Foreword
 Far
+Fell
 Wood
 What
 Where
@@ -3161,6 +3182,7 @@ Weapons
 Workflow
 While
 Waste
+We
 Main
 Mineral
 Military
@@ -3304,6 +3326,7 @@ Owners
 Observance
 Only
 One
+Once
 Job
 Judicial
 Journal

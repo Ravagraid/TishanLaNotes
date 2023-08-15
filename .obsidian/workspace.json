@@ -6,7 +6,7 @@
       {
         "id": "ff1855812c5394ba",
         "type": "tabs",
-        "dimension": 73.77521613832853,
+        "dimension": 68.67541766109785,
         "children": [
           {
             "id": "71a181e6127d8856",
@@ -27,7 +27,7 @@
       {
         "id": "dab4959a23fead44",
         "type": "tabs",
-        "dimension": 26.22478386167147,
+        "dimension": 31.324582338902147,
         "children": [
           {
             "id": "93b542f7462ae72f",
@@ -58,7 +58,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.7132754626224442,
                   "close": true
                 }
               }
@@ -230,7 +230,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "93b542f7462ae72f",
+  "active": "71a181e6127d8856",
   "lastOpenFiles": [
     "Political Entities/Tishan'La (Empire).md",
     "Longform Project/Primer/Introduction.md",

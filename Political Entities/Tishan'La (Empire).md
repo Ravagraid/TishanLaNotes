@@ -18,31 +18,25 @@ tags:
 
 &emsp;Due to the nature of governing such a vast territory, the Empire runs through a form of tithe, or taxation in which those nobles of the [[Lords Proliferate]] must pay a tax. This tax can be given in many ways, determined by the needs of the empire, and the whims of its ruler, whether it be material wealth, a labour force, or even in a standing military force. Those that do not are swiftly rebuked, and in prior epochs, such disdainful behaviour has even brought about reproach of a most violent nature, to instil fear, or to install another noble in place of the old. This has led to many a regional regime change, though few are loath to admit to such a thing.
 
-&emsp;One area of note is its people, the stalwart shianlani, or [[Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but it is this unity of purpose, this collective pride in themselves as a nation, that allows them to see past such petty things when the need arises.
+&emsp;One area of note is its people, the stalwart shianlani, or [[Tishan'La'Ni (Culture)|Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but it is this unity of purpose, this collective pride in themselves as a nation, that allows them to see past such petty things when the need arises.
 ## General information
 ### Motto/Slogan/Axiom
-"Once We Fell, Now We Rise!" - If ever one were to look upon the heraldry of Tishan'La as an empire, they would see these words, bold and brazen beneath the banner that depicts their three suns. It is a statement about their past, about their grand fall from grace, and their claim to rise not only onto the pedestal that they once occupied, but to go beyond even that; into the heavens themselves.
+&emsp;“Once We Fell, Now We Rise!” — If one were to look upon the heraldry of Tishan'La as an empire, they would see these words, bold and brazen beneath the banner that depicts their three suns. It is a statement about their past, about their grand fall from grace, and their claim to rise not only onto the pedestal that they once occupied, but to go beyond even that; into the heavens themselves.
 
 ### Alternative Names
-The Solar Empire Of Tishan'La. 
+&emsp;The Solar Empire Of Tishan'La; To outside polities, this official name given to the empire, during negotiations. However, as an odd quirk of the spoken language of the empire, those within its borders simply refer to it as Tishan'La.
 
 ### Demonym
-Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example, “French” is the demonym for someone from France.
+&emsp;The correct term for those belonging to the Empire are Tishan'La'Ni, though this term has a double meaning, depending on the context in which it is said. In fact, there are actually two kinds of Tishan'La'Ni, the [[Tishan'La'Ni (Culture)| culture]], and the [[Tishan'La'Ni (Species)|species]].
 
-### Leader + Title
-Character currently leading the organization. This can be the King, Count, Duke, Guild Master, CEO etc.
+### Current Ruler & Title
+&emsp;The reigning ruler of the empire is the [[Lord Imperatorius]], [[Levariel Demorial]], a divisive figure that's lorded by some as divinity made manifest, and by others as a tyrannical overlord, whose iron grip on the empire is what truly prevents it from spreading into the greater cosmos.
 
-### Ruling Organisation (If any)
-Organisation currently leading the organisation. This can be a Council, Board, another Organisation etc.
+### Recognised Subjects
+&emsp;The majority population is [[Tishan'La'Ni (Species)|Tishan'La'Ni]], totalling perhaps 75 to 80 percent of the empire, followed by minority populations of [[Kahlkili]], [[Saurita]], [[Yiale]], [[Dekarln]], and [[Ceehur]], in no particular order.
 
-### Parent Organisation
-Use this if your organisation is a subsidiary of another organisation. That can be the Duchies and Counties of a Kingdom, the local branch of a guild or a Temple of an organized Religion.
-
-### Related Species
-Which species are related with this organization
-
-### Related Ethnicities
-In the case of a geopolitical, religious or cultural organization you might want to refer to the ethnicities which are geographically or, otherwise bound within its borders or zone of influence.
+### Recognised Ethnicities
+&emsp;While listing every ethnicity within the empire might be an impossible task, due to just how many groups exist within the empires borders, though with that being said, the shared identity of the empire is of course, [[Tishan'La'Ni (Culture)|Tishan'La'Ni]], though often this is conflated with national identity, or as some would say; “I may be Ceehur, but I am Tishan'La'Ni, same as you.”
 
 ### Organisation Structure
 The organization's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organization. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
