@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efae4a5874a5946a",
+        "id": "103081b6709c5ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "2189c2a29f5ea88b",
+            "id": "f753f36db73b923d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,9 +224,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2189c2a29f5ea88b",
+  "active": "cfa8a637bb79ad76",
   "lastOpenFiles": [
+    "A History of Tishan'La.md",
     "Political Entities/Tishan'La (Empire).md",
+    "Council Bondsmen.md",
     "Templates/Organisation.md",
     "Templates/Type Lists/Government Types.md",
     "Longform Project/Primer/Introduction.md",
@@ -257,8 +258,6 @@
     "Templates/Condition.md",
     "Templates/Type Lists/Title Types.md",
     "Templates/Type Lists",
-    "Templates/Settlement.md",
-    "Templates/Geography.md",
     "Templates/Rank",
     "Misc",
     "Templates",

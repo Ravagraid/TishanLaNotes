@@ -1,0 +1,5 @@
+These individuals, while still sharing in a shared burden of what is essentially indentured servitude, are chosen for their willingness to sacrifice for the greater good of the Empire. Thusly, even as the common Bondsman might be looked down on by the common populous, let alone the nobility, these chosen few are given a measure of respect, paradoxical to the role they inhabit within TIshan’La’Ni society.  
+  
+To be chosen, there are few requirements. Firstly, one must already be a bondsman, as self-sacrifice is a hallmark of the truly strong. Second, and perhaps most importantly, it’s not enough to merely be a bondsman, but to push ones self ever further in the pursuit of their duty to the holder of the contract, to the point that it can be consider an obsession, or devotion of the purest sense.  
+  
+Due to the selection process, each of the Empyrean Council has their own smaller, sub-set of this group with their own unique organisational structures, duties, responsibilities and rules which this curiously esteemed class of people must follow, to prove to themselves and to others, that even the seemingly lowly can take pride in the work they do.
