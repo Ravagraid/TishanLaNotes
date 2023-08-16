@@ -4,33 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1855812c5394ba",
+        "id": "dab4959a23fead44",
         "type": "tabs",
-        "dimension": 68.67541766109785,
+        "dimension": 70.16706443914082,
         "children": [
           {
-            "id": "71a181e6127d8856",
+            "id": "05a794051f65ec5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Political Entities/Tishan'La (Empire).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "45a8464746451a6a"
+            }
           }
         ]
       },
       {
-        "id": "dab4959a23fead44",
+        "id": "ddc030240f49e9ea",
         "type": "tabs",
-        "dimension": 31.324582338902147,
+        "dimension": 29.832935560859188,
         "children": [
           {
-            "id": "93b542f7462ae72f",
+            "id": "9ffbc67c2fb70b54",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -42,14 +41,14 @@
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
+                  "localInterlinks": false,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -58,12 +57,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224446,
-                  "close": true
+                  "scale": 0.362887369301212,
+                  "close": false
                 }
               }
-            },
-            "group": "45a8464746451a6a"
+            }
           }
         ]
       }
@@ -229,7 +227,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "71a181e6127d8856",
+  "active": "9ffbc67c2fb70b54",
   "lastOpenFiles": [
     "Political Entities/Tishan'La (Empire).md",
     "Templates/Type Lists/Government Types.md",

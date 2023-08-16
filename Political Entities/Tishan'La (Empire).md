@@ -40,9 +40,21 @@ tags:
 
 &emsp;Beyond belonging to the empire's group, some cultures have persisted since before their absorption into the empire proper, such as the Kahlkili, whose cultural ties to their [[Great Tapestry]] defy even the understanding of the most expert of scholars. Though perhaps the most prominent divide in their culture, is that of [[The Hive]], and [[The Hiveless]], whose constant internal struggles often leave carnage in their wake.
 
-&emsp;Contrasting these otherwise centralised cultural identities, the Yiale are, by their nature, fragmentary, with each flock holding its own ties, its own customs and ceremonies. In some cases, even their own version of the greater Yiale tongue, known as 
-### Organisation Structure
-The organization's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organisation. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
+&emsp;Contrasting these otherwise centralised cultural identities, the Yiale are, by their nature, fragmentary, with each flock holding its own ties, its own customs and ceremonies. In some cases, even their own version of the greater Yiale tongue, which for the sake of completeness, is known as [[Yiaiasian]], or “Sounds of the Yia.”
+
+### Organisational Structure
+&emsp;As has been mentioned before, power within the empire is exercised from the highest authority, then channelled through other organisations, individuals, and positions of note to affect real change upon its many peoples. The structure of the empire, in broad strokes, can  be laid out as follows;
+- [[Lord Imperatorius|The Lord Imperatorius]]: The highest seat of power, rule undisputed and guardian of the Empire in action, if not in name. Whomsoever holds this title is granted the remit to write laws, conduct vast scientific, economic, and political projects without equal. It is a title held only by those who can unify an Empire, and those that wish for such a thing, do so with an envy unparalleled.
+- [[Council Empyrean|The Council Empyrean]]: Due to the unfathomable bureaucracy involved in the upkeep of the Empire, the Lord Imperatorius has a council of Nobles, chosen principally for their integrity and prior sacrifices made for the nation. There are seven members of the council in total, with each having a distinct title and responsibility both to the state, and to the Lord Imperatorius. Over informal channels, the Council is often referred to as the Keepers, as they are the guardians of Tishan'La, through its majestic heights, to its disastrous follies.
+ - [[Keeper Of Visions]]: 
+ - [[Keeper Of Bulwarks]]:
+ - [[Keeper Of Labour]]:
+ - [[Keeper Of Paths]]:
+ - [[Keeper Of Voices]]:
+ - [[Keeper Of Coin]]:
+ - [[Keeper Of Beasts]]:
+- [[Lords Proliferate|The Lords Proliferate]]:
+
 
 ### Culture
 An organization's culture determines the way that its members/citizens perceive and react to the world around them. Their core beliefs and customs fall under culture.

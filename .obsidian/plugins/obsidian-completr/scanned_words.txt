@@ -111,6 +111,7 @@ things
 tyrannical
 truly
 totalling
+ties
 Creation
 Contested
 Claims
@@ -264,6 +265,7 @@ Capacity
 Communications
 Casting
 Ceehur
+Contrasting
 Date
 Describe
 Does
@@ -587,6 +589,8 @@ depicts
 double
 divisive
 divinity
+defy
+divide
 small
 sea
 special
@@ -794,6 +798,12 @@ said
 spreading
 shared
 say
+since
+scholars
+struggles
+sake
+strokes
+scientific
 pronunciation
 plain
 populations
@@ -943,6 +953,9 @@ petty
 pedestal
 polities
 percent
+persisted
+prominent
+positions
 Introduction
 Is
 Important
@@ -1196,6 +1209,8 @@ approximation
 arises
 actually
 am
+absorption
+action
 right
 rolling
 river
@@ -1316,6 +1331,7 @@ ruler
 rampant
 rise
 reigning
+remit
 System
 Settlements
 Specialised
@@ -1457,6 +1473,7 @@ Sensors
 Shi
 Spheres
 Subjects
+Sounds
 Ruling
 Region
 Resources
@@ -1865,6 +1882,8 @@ loath
 led
 lorded
 listing
+leave
+laid
 geographic
 grow
 govern
@@ -1936,6 +1955,7 @@ grace
 go
 grip
 greater
+guardian
 features
 fresh
 ferrous
@@ -2034,6 +2054,8 @@ fear
 fragmented
 functions
 fact
+fragmentary
+follows
 mountain
 most
 monsoon
@@ -2138,6 +2160,7 @@ mirror
 meaning
 majority
 minority
+mentioned
 or
 of
 ocean
@@ -2265,6 +2288,8 @@ hours
 hard
 harsher
 heraldry
+holding
+highest
 it
 interact
 interaction
@@ -2333,6 +2358,8 @@ instil
 install
 independence
 impossible
+internal
+identities
 water
 whether
 wildlife
@@ -2410,6 +2437,9 @@ warmth
 wholesale
 while
 whims
+wake
+write
+wish
 via
 views
 vistas
@@ -2439,6 +2469,7 @@ vibrant
 varying
 void
 violent
+version
 edge
 environment
 ecosystem
@@ -2545,8 +2576,15 @@ exact
 ensure
 epochs
 empires
+expert
+exercised
+economic
+equal
+envy
 You
 Year
+Yiale
+Yia
 can
 components
 cool
@@ -2726,6 +2764,10 @@ correct
 context
 cosmos
 conflated
+constant
+carnage
+completeness
+channelled
 natural
 near
 nearby
@@ -2856,6 +2898,7 @@ bold
 brazen
 banner
 belonging
+broad
 How
 History
 Heavy
@@ -3106,6 +3149,9 @@ underwater
 undertaken
 unity
 unchecked
+undisputed
+unify
+unparalleled
 Flora
 Fauna
 Festivals
@@ -3219,6 +3265,7 @@ Workflow
 While
 Waste
 We
+Whomsoever
 Main
 Mineral
 Military
@@ -3456,6 +3503,7 @@ Kingdoms
 Keep
 Key
 Kavada
+Kahlkili
 zone
 jurisdiction
 join

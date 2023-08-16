@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2023-08-16T08:50:54.578Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2023-08-15T00:47:10.653Z",
       "total": 0,
       "drafts": {
