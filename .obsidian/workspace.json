@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,11 +225,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cfa8a637bb79ad76",
+  "active": "f753f36db73b923d",
   "lastOpenFiles": [
-    "A History of Tishan'La.md",
+    "{{title}}.md",
     "Political Entities/Tishan'La (Empire).md",
-    "Council Bondsmen.md",
+    "Documents",
+    "Documents/A History of Tishan'La.md",
+    "Political Entities/Council Bondsmen.md",
     "Templates/Organisation.md",
     "Templates/Type Lists/Government Types.md",
     "Longform Project/Primer/Introduction.md",
@@ -256,11 +259,9 @@
     "Templates/Technology.md",
     "Templates/Conflict.md",
     "Templates/Condition.md",
-    "Templates/Type Lists/Title Types.md",
     "Templates/Type Lists",
     "Templates/Rank",
     "Misc",
-    "Templates",
-    "TishanLaNotes"
+    "Templates"
   ]
 }
