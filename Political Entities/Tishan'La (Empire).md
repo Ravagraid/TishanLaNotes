@@ -19,6 +19,7 @@ tags:
 &emsp;Due to the nature of governing such a vast territory, the Empire runs through a form of tithe, or taxation in which those nobles of the [[Lords Proliferate]] must pay a tax. This tax can be given in many ways, determined by the needs of the empire, and the whims of its ruler, whether it be material wealth, a labour force, or even in a standing military force. Those that do not are swiftly rebuked, and in prior epochs, such disdainful behaviour has even brought about reproach of a most violent nature, to instil fear, or to install another noble in place of the old. This has led to many a regional regime change, though few are loath to admit to such a thing.
 
 &emsp;One area of note is its people, the stalwart shianlani, or [[Tishan'La'Ni (Culture)|Tishan’La’Ni]], in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures across such a vast territory, disputes often run rampant, if left unchecked. However, despite such obvious shortcomings in their capacity to work together, they as a people believe in the unity of the nation above even cultural identity and ethnicity. They may have a streak of independence about them, but it is this unity of purpose, this collective pride in themselves as a nation, that allows them to see past such petty things when the need arises.
+
 ## General information
 ### Motto/Slogan/Axiom
 &emsp;“Once We Fell, Now We Rise!” — If one were to look upon the heraldry of Tishan'La as an empire, they would see these words, bold and brazen beneath the banner that depicts their three suns. It is a statement about their past, about their grand fall from grace, and their claim to rise not only onto the pedestal that they once occupied, but to go beyond even that; into the heavens themselves.
@@ -45,7 +46,7 @@ tags:
 ### Organisational Structure
 &emsp;As has been mentioned before, power within the empire is exercised from the highest authority, then channelled through other organisations, individuals, and positions of note to affect real change upon its many peoples. The structure of the empire, in broad strokes, can  be laid out as follows;
 - [[Lord Imperatorius|The Lord Imperatorius]]: The highest seat of power, rule undisputed and guardian of the Empire in action, if not in name. Whomsoever holds this title is granted the remit to write laws, conduct vast scientific, economic, and political projects without equal. It is a title held only by those who can unify an Empire, and those that wish for such a thing, do so with an envy unparalleled.
-- [[Council Empyrean|The Council Empyrean]]: Due to the unfathomable bureaucracy involved in the upkeep of the Empire, the Lord Imperatorius has a council of Nobles, chosen principally for their integrity and prior sacrifices made for the nation. There are seven members of the council in total, with each having a distinct title and responsibility both to the state, and to the Lord Imperatorius. Over informal channels, the Council is often referred to as the Keepers, as they are the guardians of Tishan'La, through its majestic heights, to its disastrous follies.
+- [[Council Empyrean|The Council Empyrean]]: The upkeep of an empire is no small task, and certainly impossible for just a single individual to manage, thus, the Lord Imperatorius has a council of Nobles, chosen principally for their integrity and prior sacrifices made for the nation. There are seven members of the council in total, with each having a distinct title and responsibility both to the state, and to the Lord Imperatorius. Over informal channels, the Council is often referred to as the Keepers, as they are the guardians of Tishan'La, through its majestic heights, to its disastrous follies.
  - [[Keeper Of Visions]]: 
  - [[Keeper Of Bulwarks]]:
  - [[Keeper Of Labour]]:
@@ -54,7 +55,10 @@ tags:
  - [[Keeper Of Coin]]:
  - [[Keeper Of Beasts]]:
 - [[Lords Proliferate|The Lords Proliferate]]:
-
+- [[Council Bondsmen]]:
+- [[The Commonfolk]]:
+ - [[Bondsmen]]:
+ - [[Beasts]]:
 
 ### Culture
 An organization's culture determines the way that its members/citizens perceive and react to the world around them. Their core beliefs and customs fall under culture.

@@ -112,6 +112,7 @@ tyrannical
 truly
 totalling
 ties
+total
 Creation
 Contested
 Claims
@@ -591,6 +592,7 @@ divisive
 divinity
 defy
 divide
+disastrous
 small
 sea
 special
@@ -804,6 +806,8 @@ struggles
 sake
 strokes
 scientific
+sacrifices
+seven
 pronunciation
 plain
 populations
@@ -956,6 +960,7 @@ percent
 persisted
 prominent
 positions
+principally
 Introduction
 Is
 Important
@@ -1332,6 +1337,7 @@ rampant
 rise
 reigning
 remit
+referred
 System
 Settlements
 Specialised
@@ -1744,6 +1750,7 @@ NCC
 Noble
 Ni
 Now
+Nobles
 Geography
 Goods
 Greetings
@@ -1956,6 +1963,7 @@ go
 grip
 greater
 guardian
+guardians
 features
 fresh
 ferrous
@@ -2056,6 +2064,7 @@ functions
 fact
 fragmentary
 follows
+follies
 mountain
 most
 monsoon
@@ -2161,6 +2170,7 @@ meaning
 majority
 minority
 mentioned
+majestic
 or
 of
 ocean
@@ -2290,6 +2300,7 @@ harsher
 heraldry
 holding
 highest
+heights
 it
 interact
 interaction
@@ -2360,6 +2371,7 @@ independence
 impossible
 internal
 identities
+integrity
 water
 whether
 wildlife
@@ -2768,6 +2780,8 @@ constant
 carnage
 completeness
 channelled
+channels
+certainly
 natural
 near
 nearby
@@ -3152,6 +3166,8 @@ unchecked
 undisputed
 unify
 unparalleled
+unfathomable
+upkeep
 Flora
 Fauna
 Festivals
@@ -3410,6 +3426,7 @@ Observance
 Only
 One
 Once
+Over
 Job
 Judicial
 Journal
@@ -3504,6 +3521,7 @@ Keep
 Key
 Kavada
 Kahlkili
+Keepers
 zone
 jurisdiction
 join

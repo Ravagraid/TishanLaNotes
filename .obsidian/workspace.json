@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.362887369301212,
+                  "scale": 0.3628873693012127,
                   "close": false
                 }
               }
@@ -227,7 +227,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9ffbc67c2fb70b54",
+  "active": "05a794051f65ec5d",
   "lastOpenFiles": [
     "Political Entities/Tishan'La (Empire).md",
     "Templates/Type Lists/Government Types.md",
