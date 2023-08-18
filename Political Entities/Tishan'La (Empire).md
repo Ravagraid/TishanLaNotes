@@ -2,7 +2,6 @@
 title: Tishan'La (Empire)
 Creation Date: 15-08-2023
 tags:
-- Template
 - Organisation
 - Geopolitical
 - Empire
@@ -11,6 +10,7 @@ tags:
 # Tishan'La (Empire)
 <small>Pronunciation: (Shi-An-La)</small>
 <small>Type: Geopolitical, Empire</small>
+
 ## Introduction
 &emsp;The Empire of Tishan’La is a sovereign, interstellar nation state that spans three Spheres thus far, with plans to expand further afield into what has commonly been called the [[Far Realms]], a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the empty void. The Empire itself has conducted many a census in the past, but due to clerical errors, Byzantine bureaucracy, and in some cases the destruction of the records wholesale, the exact number of individuals within the Empire cannot be ascertained. Due to this, only an approximation from prior attempts at a national census, currently exists. This number, though widely disputed by many, ranges between 39 and 40 billion souls at its current peak, though there have been instances where that number was drastically reduced, to half if not less.
 

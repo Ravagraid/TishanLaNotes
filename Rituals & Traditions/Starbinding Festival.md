@@ -2,7 +2,6 @@
 title: Starbinding Festival
 Creation Date: 18-08-2023
 tags:
-- Template
 - Tradition
 - Festival/Celebration
 ---
