@@ -85,28 +85,27 @@ tags:
 ### Public Agenda
 &emsp;At present, the empire promotes, in near totality, a regime of growth, expansion, and reformation through targetted expenditures of wealth in the pursuit of narrowed goals. The reasoning for this is a fairly simple one; to concentrate efforts where they are most needed, as opposed to casting a wide net over all areas of major concern. Where some polities would choose to hoard their wealth within the ivory towers of the upper nobility, the Empyreans themselves use the wealth of the nation to further improve the lives of those within it. Or to suppress the dissidents that would seek to topple what the Lord Imperatorius had built.
 
-&emsp;It is said that the gears of imperial mandate grind ever so slowly, and they would be correct in this regard, as those afore mentioned meetings take place every seven years, 
+&emsp;It is said that the gears of imperial mandate grind ever so slowly, and they would be correct in this regard, as those afore mentioned meetings take place every five years, prior to the [[Starbinding Festival]]. 
 
 ## Historical
-Place subheadings related to the history of the organisation here.
 
 ### Founding Date
 ### Dissolution Date
 
 ### Founders
-The founder(s) of this organization. May or may not be a family.
+The founder of the empire in its present state is the [[Lord Imperatorious, Levariel Demorial]].
 
 ### History
-&emsp;It is often said that history, no matter how torturous, no matter how humiliating or mundane, no matter the horrors of endless conflict and the death toll of countless different ideologies that, through the simple fact of their very existence, is somehow written by the victor. If that were in fact the case, then Tishan’La is quite clearly the victim of countless cataclysms, brought about not through internecine warfare, but through unprovoked invasions by evils far greater than those that ruled from their cerulean towers. &emsp;Theirs is a history painted red, dripping with an ever-present flow of crimson from conflict that reaches back tens of thousands of solar years, by the calendar of the empire, and with naught but layer upon layer of battleground, unearthed weaponry, and failed attempts at landing a last decisive blow in a conflict that lasted for much, much longer than it had any right to.
+&emsp;It is often said that history, no matter how torturous, no matter how humiliating or mundane, no matter the horrors of endless conflict and the death toll of countless different ideologies that, through the simple fact of their very existence, is somehow written by the victor. If that were in fact the case, then Tishan’La is quite clearly the victim of countless cataclysms, brought about not through internecine warfare, but through unprovoked invasions by evils far greater than those that ruled from their cerulean towers. &emsp;Theirs is a history painted red, dripping with an ever-present flow of crimson from conflict that reaches back tens of thousands of solar years, by the calendar of the empire. It is layer upon layer of battleground, unearthed weaponry, and failed attempts at landing a last decisive blow in a conflict that lasted for much, much longer than it had any right to.
 
-&emsp;As one might have surmised from such strong use of emotive language, the notion that one can garner an unbiased view of the history of such a resilient people might be impossible, if it weren’t for one of the lesser-known functions of the Keeper of Paths; the safeguarding of knowledge, and the sanctification of what one might consider to be the only true history of the Empire. It is thanks to this that there exists, in any form, accounts of those fateful conflicts of yesteryear. However, as is often the case with the passage of time, the further back one ventures, the less precise the account becomes.
+&emsp;As one might have surmised from such strong use of emotive language, the notion that one can garner an unbiased view of the history of such a resilient people should be considered impossible. That is, it weren’t for one of the lesser-known functions of the Keeper of Paths; the safeguarding of knowledge, and the sanctification of what one might consider to be the only true history of the Empire. It is thanks to this that there exists, in any form, accounts of those fateful conflicts of yesteryear. However, as is often the case with the passage of time, the further back one ventures, the less precise the account becomes.
 
-&emsp;What history is known, is suffixed with the denomination of Be’ah eah’zhusa, or when properly translated, Time Before the Era of Rebuilding, and thus abbreviated as BER (Before Era of Rebuilding) to understand the timescales involved. For further reading on the subject, see; [[A History of Tishan'La]]
+&emsp;What history is known, is suffixed with the denomination of [[Tishan'La'Ni Calendar|Be’ah eah’zhusa]], or when properly translated, Time Before the Era of Rebuilding, and thus abbreviated as BER (Before Era of Rebuilding) to understand the timescales involved. For further reading on the subject, see; [[A History of Tishan'La]]
 
 ## Geopolitical
 
-### Geographic Location / Base Settlement / HQ
-A rough outline of the organisations seat of power. Whether it be the capital of a nation, a hidden base within a pre-existing city, or something altogether more esoteric.
+### Seat Of Power
+From an administrative, cultural, and lingual standpoint, the seat of power is very much dependent on where an individual is, relative to the percieved capital of the empire.
 
 ### Head of Ceremony
 Emperors, Queens, Presidents and other individuals that embody the outward face of the organisation. It isn't necessarily required that they hold any true power, such as with the royal family of the United Kingdom.
