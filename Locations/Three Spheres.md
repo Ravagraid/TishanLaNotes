@@ -18,9 +18,16 @@ tags:
 <small>Ruling Body: [[Tishan'La (Empire)|The Solar Empire of Tishan'La]]</small>
 <small>Contested Claims:</small>
 
-The Three Spheres, as they are commonly referred to, are a trio of suns that are within a close enough proximity of each other to allow for the connection of a series of [[Pathways]] as a method of near-instantaneous transportation. Of course, this isn't the only method, as there are the countless courier [[Gliders]] and unmanned [[Pathfinder]] vessels that move between the Three Spheres in pre-determined routes. The routes between each Sphere have no official name, besides commonly the commonly accepted term of [[Road]].
+&emsp;The Three Spheres, as they are commonly referred to, are a trio of suns that are within a close enough proximity of each other to allow for the connection of a series of [[Pathways]] as a method of near-instantaneous transportation. Of course, this isn't the only method, as there are the countless courier [[Gliders]] and unmanned [[Pathfinder]] vessels that move between the Three Spheres in pre-determined routes. The routes between each Sphere have no official name, besides commonly the commonly accepted term of [[Road]].
 
-## Region 1
+&emsp;While the domain of Tishan'La does in fact extend beyond the Three Spheres into smaller, less populated regions, commonly referred to as the [[Far Realms]]. These realms are as small as one might expect, with some being little more than an outpost housing a half-dozen.
+
+&emsp;As is so frequently the case with interstellar bodies, the three are often used as focal points of reverence and worship from many [[Solar Cults]], as well as the three most prominent faiths that exist within the empire, those being; [[The Followers of Shalei'Kah]], [[The Sunstained Church]], and [[The Disciples]].
+
+&emspThe Three Sphere consist of a trio of solar systems, each of which house a number of planets, moons, notable celestial phenomena, and smaller, artificial constructs. Collectively, the Three Spheres contains an overwhelming majority of the population of [[Tishan'La (Empire)|Tishan'La]], though some hold a higher population than others, and thusly are regularly overlooked, in certain circles of society. Each Sphere, and the significant celestial bodies that orbit them, are listed here.
+
+## Nalre'sah
+Nalre'sah is a great, red star with a baleful gaze, and is often referred to as the most boastful of the three, with its respective faith [[The Disciples]] having a tendency to be overly proud, sometimes to the point of shunning those denizens of the other Spheres, let alone outsiders from the @Far Realms(location)‌ and beyond. Due to the fact that the Throneworld orbits this Sphere in particular, it has both a higher total population, and higher rate of immigration than its fellow Spheres of the Empire.
 
 ### Geography
 Describe the location's geographic features. Is the terrain a plain, a mountain or rolling hills? Does it have access to fresh water via a river or a lake? Is it at the edge of a sea or an ocean? You can also talk about the views and natural beauty of the location.
