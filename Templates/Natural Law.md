@@ -8,7 +8,7 @@ tags:
 - 
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 <small>Type;</small>

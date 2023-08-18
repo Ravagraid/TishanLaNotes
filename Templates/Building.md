@@ -7,7 +7,7 @@ tags:
 - Building
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Introduction

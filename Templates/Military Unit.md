@@ -6,7 +6,7 @@ tags:
 - Military_Formation
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Introduction

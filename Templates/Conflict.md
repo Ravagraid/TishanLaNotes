@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 Type: War, War (Theatre), Military Campaign, Battle, Siege, Skirmish, Duel, Political Debate, Sports Event, Showdown, Intelligence, Espionage, Covert Operation, Rebellion, Civil War

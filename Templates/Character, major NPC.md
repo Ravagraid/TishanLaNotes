@@ -8,7 +8,7 @@ tags:
 - NPC
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Summary

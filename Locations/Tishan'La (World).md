@@ -1,13 +1,12 @@
 ---
-title: {{title}}
-Creation Date: {{date}}
+title: Tishan'La (World)
+Creation Date: 18-08-2023
 tags:
-- Template
 - Location
 - 
 ---
 
-# {{title}}
+# Tishan'La (World)
 <small>Pronunciation:</small>
 <small>Alternative Names:</small>
 

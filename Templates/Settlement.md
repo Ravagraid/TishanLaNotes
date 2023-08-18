@@ -7,7 +7,7 @@ tags:
 - Location
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 Type;
 - Caravan

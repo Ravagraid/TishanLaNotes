@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 type; [[Title Types]]
 ## Introduction

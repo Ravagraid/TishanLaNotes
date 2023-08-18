@@ -6,7 +6,7 @@ tags:
 - Myth
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Introduction

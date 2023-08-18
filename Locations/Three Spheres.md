@@ -7,7 +7,7 @@ tags:
 - Star
 ---
 
-# [[Three Spheres]]
+# Three Spheres
 <small>Pronunciation: As Read</small>
 <small>Alternative Names: Three Sisters</small>
 <small>Type: Star Cluster</small>
@@ -32,7 +32,7 @@ tags:
 
 - [[Gresha'el]]: While not as close to the star as Vaetra'fei, the amount of heat that the star radiates, suggests that the surface water of this sand dune covered world evaporated away, many eons ago. What evidence of habitation remains, are hidden within the few canyons and crevices that pockmark an otherwise desert swept realm. These settlements, while few in number, seem to have once been capable of housing tens, if not hundreds of thousands within their vast, cavernous expanses. Very few expeditions have been sent, and even fewer have returned.
 - [[Tishan'La (World)|Tishan'la]]: Noble Tishan'La, a temperate world of verdant forests and fields of bright, purple grass that sway in the gentle breeze. This is the birthplace of the Tishan'La'Ni, from whence the Empire did rise to the stars in earlier epochs and which continues to be the hub of the wheel, as it were. Though of all its characteristically unique landmarks, what one will notice first is the great, monolithic structures that pierce the heavens themselves. To the denizens of the Empire, they are simply known as [[Spire|The Spires]].
- - [[Tishae'va]]: The first moon of the throneworld, Tishae'va is most commonly referred to as the First Frontier, due to it being the first point of expansion during the first excursions into the endless sea. Together with its sister moon, they are called [[The Twins]] due to their uncanny similarities in appearance, and mineral wealth. It is considered to be the most populated of the two, which has lead to an unofficial competition between quantity, and quality. Curiously, as a result of its quantity doctrine, Tishae'va has actually been hollowed out, in favour of more living space.
+ - [[Tishae'va]]: The first moon of the Throneworld, Tishae'va is most commonly referred to as the First Frontier, due to it being the first point of expansion during the first excursions into the endless sea. Together with its sister moon, they are called [[The Twins]] due to their uncanny similarities in appearance, and mineral wealth. It is considered to be the most populated of the two, which has lead to an unofficial competition between quantity, and quality. Curiously, as a result of its quantity doctrine, Tishae'va has actually been hollowed out, in favour of more living space.
  - [[Tishli'va]]: The second celestial body to be claimed for Tishan'La marked a turning point, where those brave souls that journeyed this far would dare to dream of yet further expansion. There's a certain kind of wanderlust that's characteristic of those that still dwell upon this moon, which has lead to a distinctly lower population than that of its sister. The pair have a distinctly grey, dusty appearance, littered with craters for many an extra-solar impact, which to this day, has provided both with a substantial mineral wealth.
 - [[Daesa’dal]]: Far from the star dwells a great, gaseous realm, a swirling mass of toxic fumes and airborne beasts that shriek and wail in an otherwise poisonous atmosphere. No living soul has delved into the depths of this place and returned, though many still brave the excessive storms to harvest the carcasses of dead [[Daesabeasts]]. In its orbit are many small moons, with some estimates placing the number at upwards of 20.
 

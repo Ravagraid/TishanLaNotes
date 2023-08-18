@@ -7,7 +7,7 @@ tags:
 - Major NPC
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Summary

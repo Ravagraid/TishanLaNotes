@@ -6,7 +6,7 @@ tags:
 - Magic
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 ## Introduction

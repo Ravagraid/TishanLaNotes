@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 Type: Bacterial, Chemical Compound, Divine, Genetic, Fungal, Magical, Mental, Nanites/Mechanical, Neurological, Parasitic, Physiological, Prion, Supernatural, Viral

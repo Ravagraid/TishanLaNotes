@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 <small>Parent Languages:</small>
 <small>Spoken By;</small>

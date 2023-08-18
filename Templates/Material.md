@@ -6,7 +6,7 @@ tags:
 - Material
 ---
 
-# [[{{title}}]]
+# {{title}}
 <small>Pronunciation:</small>
 
 type;
