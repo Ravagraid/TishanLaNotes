@@ -135,6 +135,9 @@ timescales
 theory
 teemed
 theological
+totality
+targetted
+topple
 Creation
 Contested
 Claims
@@ -651,6 +654,7 @@ dwellings
 discovery
 dried
 discussing
+dissidents
 small
 sea
 special
@@ -919,6 +923,8 @@ step
 settlements
 speculate
 significance
+suppress
+seek
 pronunciation
 plain
 populations
@@ -1109,6 +1115,8 @@ piers
 peculiar
 plaza
 proportions
+promotes
+pursuit
 Introduction
 Is
 Important
@@ -1539,6 +1547,7 @@ resilient
 reading
 rectangular
 rivers
+reasoning
 System
 Settlements
 Specialised
@@ -2320,6 +2329,7 @@ foot
 freshwater
 fossils
 fenceposts
+fairly
 mountain
 most
 monsoon
@@ -2595,6 +2605,7 @@ horrors
 housed
 hamlets
 heard
+hoard
 it
 interact
 interaction
@@ -2679,6 +2690,8 @@ internecine
 invasions
 identifiable
 initial
+ivory
+improve
 water
 whether
 wildlife
@@ -2943,6 +2956,9 @@ expansive
 els
 estimations
 expanded
+expenditures
+explain
+efforts
 You
 Year
 Yiale
@@ -3166,6 +3182,11 @@ crimson
 central
 conjecture
 constructing
+conveen
+concentrate
+casting
+concern
+choose
 natural
 near
 nearby
@@ -3216,6 +3237,7 @@ nonetheless
 necessity
 neither
 naught
+narrowed
 beauty
 biological
 balls
@@ -3606,6 +3628,7 @@ unbiased
 understand
 uncovering
 understated
+upper
 Flora
 Fauna
 Festivals
