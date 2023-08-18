@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Three Spheres.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,8 +227,9 @@
   },
   "active": "50b63407f613df8a",
   "lastOpenFiles": [
-    "Political Entities/Tishan'La (Empire).md",
     "Locations/Three Spheres.md",
+    "TODO.md",
+    "Political Entities/Tishan'La (Empire).md",
     "Rituals & Traditions/Starbinding Festival.md",
     "Locations",
     "Rituals & Traditions",
@@ -260,7 +261,6 @@
     "Templates/Character, minor NPC.md",
     "Templates/Vehicle.md",
     "Templates/Traditions & Rituals.md",
-    "Templates/Technology.md",
     "Templates/Type Lists",
     "Templates/Rank"
   ]
