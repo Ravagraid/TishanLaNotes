@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Three Spheres.md"
+                "file": "Political Entities/Tishan'La (Empire).md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Political Entities/Tishan'La (Empire).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,8 +250,8 @@
   },
   "active": "4644b18931e7569f",
   "lastOpenFiles": [
-    "Political Entities/Tishan'La (Empire).md",
     "Locations/Three Spheres.md",
+    "Political Entities/Tishan'La (Empire).md",
     "Political Entities/Council Bondsmen.md",
     "Locations/Tishan'La (World).md",
     "Templates/Profession.md",
