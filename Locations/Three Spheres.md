@@ -27,7 +27,6 @@ tags:
 
 ## Nalre'sah
 &emsp;Nalre'sah is a great, red star with a baleful gaze, and is often referred to as the most boastful of the three, with its respective faith [[The Disciples]] having a tendency to be overly proud, sometimes to the point of shunning those denizens of the other Spheres, let alone outsiders from the [[Far Realms]] and beyond. Due to the fact that the Throneworld orbits this Sphere in particular, it has both a higher total population, and higher rate of immigration than its fellow Spheres of the Empire.
-
 - [[Vaetra'fei]]: Due to the immense amount of heat that this planet must endure, its surface has been rendered into something akin to a smooth, glassy material, and is often called the [[Godstear]] (God's Tear), in reference to an ancient tale in which noble Narle'sah did weep for her children. On some bright days, patient and well-protected observers might be able to see this glistening white dot, to contrast an otherwise wholly violent star.
 <br>
 - [[Gresha'el]]: While not as close to the star as Vaetra'fei, the amount of heat that the star radiates, suggests that the surface water of this sand dune covered world evaporated away, many eons ago. What evidence of habitation remains, are hidden within the few canyons and crevices that pockmark an otherwise desert swept realm. These settlements, while few in number, seem to have once been capable of housing tens, if not hundreds of thousands within their vast, cavernous expanses. Very few expeditions have been sent, and even fewer have returned.
