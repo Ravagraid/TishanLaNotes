@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b80a2237a14a9ff9",
+        "id": "134f06dd35edd2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d63c894e2e8865",
+            "id": "4644b18931e7569f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,6 +162,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "fa28eb8c762932fc",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -199,7 +207,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 150,
-                  "scale": 0.5087618855792626,
+                  "scale": 0.5087618855792633,
                   "close": true
                 }
               }
@@ -236,11 +244,16 @@
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-file-info-plugin:File Info Panel": false
     }
   },
-  "active": "f2d63c894e2e8865",
+  "active": "3f1926a6a8fa039d",
   "lastOpenFiles": [
+    "Locations/Three Spheres.md",
+    "Political Entities/Tishan'La (Empire).md",
+    "Political Entities/Council Bondsmen.md",
+    "Locations/Tishan'La (World).md",
     "Templates/Profession.md",
     "Templates/Settlement.md",
     "Templates/Species.md",
@@ -263,10 +276,6 @@
     "Templates/Condition.md",
     "Templates/Character, minor NPC.md",
     "Templates/Character, major NPC.md",
-    "Templates/Character, Diety.md",
-    "Templates/Building.md",
-    "Locations/Tishan'La (World).md",
-    "Locations/Three Spheres.md",
     "Locations",
     "Rituals & Traditions",
     "Documents",

@@ -12,5 +12,6 @@
   "obsidian-languagetool-plugin",
   "table-editor-obsidian",
   "obsidian-sort-and-permute-lines",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-file-info-plugin"
 ]
