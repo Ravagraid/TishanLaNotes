@@ -1,7 +1,7 @@
 {
-  "findText": "",
-  "replaceText": "",
-  "useRegEx": true,
+  "findText": "]]",
+  "replaceText": "]",
+  "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": true,
   "processLineBreak": false,

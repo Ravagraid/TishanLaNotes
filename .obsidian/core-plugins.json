@@ -1,5 +1,4 @@
 [
-  "file-explorer",
   "global-search",
   "switcher",
   "graph",
@@ -14,6 +13,7 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "markdown-importer",
   "outline",
   "file-recovery"
 ]

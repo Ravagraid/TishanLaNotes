@@ -13,5 +13,8 @@
   "table-editor-obsidian",
   "obsidian-sort-and-permute-lines",
   "obsidian-regex-replace",
-  "obsidian-file-info-plugin"
+  "obsidian-file-info-plugin",
+  "heading-level-indent",
+  "obsidian-note-autocreator",
+  "wikilinks-to-mdlinks-obsidian"
 ]

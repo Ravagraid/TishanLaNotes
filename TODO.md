@@ -1,1 +1,4 @@
-- [ ] Finish [[Tishan'La (Empire)]]
+- [ ] Finish [Tishan'La (Empire)](Organisations/Political/Tishan'La%20(Empire).md)
+- [ ] Fix Links in [Tishan'La (Empire)](Organisations/Political/Tishan'La%20(Empire).md)
+- [ ] Fix Links in [Three Spheres](Locations/Three%20Spheres.md)
+- [ ] Fix Links in [Rituals & Traditions/Starbinding Festival](Rituals%20&%20Traditions/Starbinding%20Festival.md)

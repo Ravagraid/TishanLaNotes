@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "134f06dd35edd2a8",
+        "id": "bc605342827d427c",
         "type": "tabs",
         "children": [
           {
-            "id": "4644b18931e7569f",
+            "id": "2d208920aa7c5286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Title & Rank/Lord Imperatorius.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,16 +34,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa8a637bb79ad76",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "9a3b1a06a2b78401",
             "type": "leaf",
             "state": {
@@ -56,14 +46,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "e884077b37d32a9b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -83,11 +65,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 257.5
   },
   "right": {
     "id": "cd476c45aef208f7",
@@ -103,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Title & Rank/Lord Imperatorius.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -120,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Three Spheres.md",
+                "file": "Title & Rank/Lord Imperatorius.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Three Spheres.md"
+                "file": "Title & Rank/Lord Imperatorius.md"
               }
             }
           },
@@ -175,11 +157,11 @@
         "currentTab": 5
       },
       {
-        "id": "12e457c02d052fd0",
+        "id": "5cda42d3e756ad86",
         "type": "tabs",
         "children": [
           {
-            "id": "b3acf7c1c12792c6",
+            "id": "a51c11aa16440705",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -204,46 +186,47 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-file-info-plugin:File Info Panel": false
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "4644b18931e7569f",
+  "active": "2d208920aa7c5286",
   "lastOpenFiles": [
-    "Locations/Three Spheres.md",
-    "Political Entities/Tishan'La (Empire).md",
-    "Political Entities/Council Bondsmen.md",
-    "Locations/Tishan'La (World).md",
-    "Templates/Profession.md",
-    "Templates/Settlement.md",
-    "Templates/Species.md",
-    "Templates/Technology.md",
-    "Templates/Title & Rank.md",
-    "Templates/Traditions & Rituals.md",
-    "Templates/Vehicle.md",
-    "Templates/Organisation.md",
-    "Templates/Natural Law.md",
-    "Templates/Myths & Legends.md",
-    "Templates/Military Unit.md",
-    "Templates/Material.md",
-    "Templates/Magic.md",
-    "Templates/Language.md",
-    "Templates/Item.md",
-    "Templates/Geography.md",
-    "Templates/Ethnicity.md",
-    "Templates/Document.md",
-    "Templates/Conflict.md",
-    "Templates/Condition.md",
-    "Templates/Character, minor NPC.md",
-    "Templates/Character, major NPC.md",
+    "Title & Rank/Lord Imperatorius.md",
+    "Major Figures/Traexar Scrix.md",
+    "Major Figures/Trascka The Explorer.md",
+    "Organisations/Frontier Watch.md",
+    "Organisations/Military/Frontier Watch.md",
+    "Frontier Council $.md",
+    "Beasts.md",
+    "Organisations/Political/Tishan'La (Empire).md",
+    "Locations/Stellar/Three Spheres.md",
+    "Pioneer C$.md",
+    "TODO.md",
+    "Locations/Stellar/Tishan'La (World).md",
+    "The Followers of Shalei'Kah.md",
+    "Organisations/Religious",
+    "Rituals & Traditions/Starbinding Festival.md",
+    "Locations/Stellar",
+    "Documents/A History of Tishan'La.md",
+    "Longform Project/Primer/Introduction.md",
+    "Organisations/Political/Frontier Council.md",
+    "Templates/Type Lists/Organisation Types.md",
+    "Organisations/Military",
+    "Organisations/Political",
+    "Organisations/Civil",
+    "Untitled.md",
+    "Minor Figures",
+    "Major Figures",
+    "Templates/Type Lists/Title Types.md",
+    "Organisations/Council Bondsmen.md",
+    "Title & Rank",
+    "Shol'vaso.md",
+    "Misc/Topics To Consider.md",
+    "Far Realms.md",
+    "Templates/Type Lists/Geography Type.md",
+    "().md",
     "Locations",
-    "Rituals & Traditions",
-    "Documents",
-    "Political Entities",
-    "Longform Project/Primer",
-    "Longform Project",
-    "Primer/Tishan'La",
-    "Primer",
-    "Templates/Type Lists",
-    "Templates/Rank"
+    "Rituals & Traditions"
   ]
 }
