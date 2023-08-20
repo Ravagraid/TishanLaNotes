@@ -409,6 +409,8 @@ Due
 Devious
 Duty
 During
+Daesa
+Daesabeasts
 Planet
 Parent
 Phenomena
@@ -711,6 +713,8 @@ dusty
 dx
 delved
 depths
+dals
+damage
 small
 sea
 special
@@ -1042,6 +1046,8 @@ swirling
 shriek
 soul
 storms
+swathes
+stranding
 pronunciation
 plain
 populations
@@ -1574,6 +1580,7 @@ accepted
 akin
 ago
 airborne
+artifical
 right
 rolling
 river
@@ -2359,6 +2366,9 @@ likeness
 listed
 lowly
 littered
+largest
+literally
+lift
 geographic
 grow
 govern
@@ -2730,6 +2740,7 @@ moon
 mineral
 marked
 misuses
+manipulation
 or
 of
 ocean
@@ -2928,6 +2939,7 @@ hub
 hollowed
 hallmark
 harvest
+harvesting
 it
 interact
 interaction
@@ -3337,6 +3349,7 @@ essentially
 esteemed
 excessive
 estimates
+eccentric
 You
 Year
 Yiale
@@ -3608,6 +3621,9 @@ carcasses
 contributing
 closely
 complexity
+closest
+construct
+caused
 natural
 near
 nearby
@@ -4032,6 +4048,7 @@ Tear
 Tishae
 Twins
 TIshan
+Thanks
 year
 you
 your

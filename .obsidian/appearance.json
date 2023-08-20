@@ -1,8 +1,10 @@
 {
   "accentColor": "",
-  "monospaceFontFamily": "CaskaydiaCove NF",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "nativeMenus": false,
   "translucency": false,
   "cssTheme": "Everforest",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
