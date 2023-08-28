@@ -341,6 +341,7 @@ Celestial
 Corp
 Chal
 Colonies
+Calendars
 Date
 Describe
 Does
@@ -562,6 +563,7 @@ Pride
 Precession
 Pioneer
 Per
+Proliferate
 date
 do
 develop
@@ -2110,6 +2112,7 @@ Suffix
 Smaller
 Scrix
 Stellar
+Sapient
 Ruling
 Region
 Resources
@@ -2368,6 +2371,7 @@ Availability
 Anomalies
 Alongside
 Another
+Articles
 Names
 Notable
 Natural
@@ -4621,6 +4625,7 @@ Followers
 Fix
 Fourth
 Five
+Format
 Wood
 What
 Where
@@ -4856,6 +4861,7 @@ Upon
 Utility
 Us
 Uncrowned
+Umbrascia
 Quirk
 Quality
 Quirks

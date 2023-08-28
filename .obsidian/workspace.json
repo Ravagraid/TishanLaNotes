@@ -4,23 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "bc605342827d427c",
-        "type": "tabs",
+        "id": "7197ae087d0f4d84",
+        "type": "split",
         "children": [
           {
-            "id": "2d208920aa7c5286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Title & Rank/Lord Imperatorius.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+            "id": "753960b65497e813",
+            "type": "tabs",
+            "dimension": 80.19801980198021,
+            "children": [
+              {
+                "id": "d66a76f153910035",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Organisations/Political/Tishan'La (Empire).md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "16fd878e7b560b15",
+            "type": "tabs",
+            "dimension": 19.801980198019802,
+            "children": [
+              {
+                "id": "947071b3848eb9f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -63,6 +91,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "b4673b2fb6c2fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -85,9 +121,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Title & Rank/Lord Imperatorius.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Title & Rank/Lord Imperatorius.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Title & Rank/Lord Imperatorius.md"
+                "file": "Organisations/Political/Tishan'La (Empire).md"
               }
             }
           },
@@ -190,43 +226,43 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d208920aa7c5286",
+  "active": "d66a76f153910035",
   "lastOpenFiles": [
-    "Title & Rank/Lord Imperatorius.md",
-    "Major Figures/Traexar Scrix.md",
-    "Major Figures/Trascka The Explorer.md",
-    "Organisations/Frontier Watch.md",
-    "Organisations/Military/Frontier Watch.md",
-    "Frontier Council $.md",
-    "Beasts.md",
-    "Organisations/Political/Tishan'La (Empire).md",
-    "Locations/Stellar/Three Spheres.md",
-    "Pioneer C$.md",
-    "TODO.md",
-    "Locations/Stellar/Tishan'La (World).md",
-    "The Followers of Shalei'Kah.md",
-    "Organisations/Religious",
-    "Rituals & Traditions/Starbinding Festival.md",
-    "Locations/Stellar",
-    "Documents/A History of Tishan'La.md",
-    "Longform Project/Primer/Introduction.md",
-    "Organisations/Political/Frontier Council.md",
-    "Templates/Type Lists/Organisation Types.md",
-    "Organisations/Military",
-    "Organisations/Political",
-    "Organisations/Civil",
-    "Untitled.md",
-    "Minor Figures",
-    "Major Figures",
-    "Templates/Type Lists/Title Types.md",
+    "Organisations/Political/Lords Proliferate.md",
     "Organisations/Council Bondsmen.md",
-    "Title & Rank",
-    "Shol'vaso.md",
-    "Misc/Topics To Consider.md",
-    "Far Realms.md",
+    "Locations/Stellar/Far Realms.md",
+    "Locations/Stellar/Tishan'La (World).md",
+    "Locations/Stellar/Three Spheres.md",
+    "Ethnicity/Tishan'La'Ni.md",
+    "Documents/A History of Tishan'La.md",
+    "Calendars/Tishan'La'Ni calendar.md",
+    "Organisations/Political/Tishan'La (Empire).md",
+    "Characters/Deity",
+    "Characters/Minor",
+    "Characters/Major",
+    "Characters",
+    "TODO.md",
+    "Species/Sapient/Tishan'La'Ni.md",
+    "Species/Non-Sapient",
+    "Species/Sapient",
+    "Sapient",
+    "Species",
+    "Ethnicity",
+    "Templates/Ethnicity.md",
+    "Templates/Document.md",
+    "Templates/Geography.md",
+    "Templates/Item.md",
+    "Templates/Language.md",
+    "Templates/Natural Law.md",
+    "Templates/Myths & Legends.md",
+    "Calendars.md",
+    "Calendars",
+    "Tishan'La'Ni Calendar.md",
+    "Locations/Stellar/Far%20realms.md",
+    "Locations/Stellar/$.md",
+    "Title & Rank/Lord Imperatorius.md",
     "Templates/Type Lists/Geography Type.md",
-    "().md",
-    "Locations",
-    "Rituals & Traditions"
+    "Major Figures/Traexar Scrix.md",
+    "Major Figures/Trascka The Explorer.md"
   ]
 }

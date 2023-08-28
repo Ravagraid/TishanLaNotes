@@ -1,21 +1,21 @@
 ---
-title: Tishan'La (World)
-Creation Date: 18-08-2023
+title: Far Realms
+Creation Date: 27-08-2023
 tags:
 - Location
 - Cosmology
-- Planet
+- Stellar_Region
 ---
 
-# Tishan'La (World)
-<small>Pronunciation: Shi-An-La</small>
-<small>Alternative Names: Throneworld</small>
+# Far Realms
+<small>Pronunciation:</small>
+<small>Alternative Names:</small>
 
-<small>Type; Planet, temperate</small>
+<small>[[Geography Type]]</small>
 
 ## Introduction
 
-<small>Parent System: </small>
+<small>Parent System:</small>
 <small>Ruling Body:</small>
 <small>Contested Claims:</small>
 
