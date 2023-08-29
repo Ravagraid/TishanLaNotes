@@ -342,6 +342,8 @@ Corp
 Chal
 Colonies
 Calendars
+Coin
+Commonfolk
 Date
 Describe
 Does
@@ -440,6 +442,9 @@ Daesa
 Daesabeasts
 Dal
 Denotes
+Demorial
+Dekarln
+Documents
 Planet
 Parent
 Phenomena
@@ -1542,6 +1547,8 @@ Lastly
 Liarna
 Lee
 Links
+Levariel
+Labour
 align
 access
 at
@@ -2113,6 +2120,7 @@ Smaller
 Scrix
 Stellar
 Sapient
+Saurita
 Ruling
 Region
 Resources
@@ -3690,6 +3698,8 @@ You
 Year
 Yiale
 Yia
+Yialei
+Yiaiasian
 can
 components
 cool
@@ -4267,6 +4277,7 @@ His
 Huael
 Heavenward
 He
+Hiveless
 Ecosystem
 Education
 Equipment
@@ -4462,6 +4473,8 @@ Tor
 Trascka
 Traexar
 Third
+Tapestry
+TitlesKeeper
 year
 you
 your
@@ -4919,6 +4932,8 @@ Va
 Varl
 Vael
 Vaso
+Visions
+Voices
 quirk
 quirks
 quickly

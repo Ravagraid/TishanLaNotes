@@ -14,6 +14,6 @@
 
 &emsp;Flora and fauna too, are abundant across great plains of rolling lilac grass, burdened by the blazing warmth of a blood-red sun. Likewise, the oceans teem with all manner of fish, crustacean and invertebrate. Though perhaps, most curious of all are the leviathans, rumoured beasts of prodigious size and scale, whose very footprint can only be seen from above.
 
-&emsp;Governing this world is the [Lord Imperatorius](../../Title%20&%20Rank/Lord%20Imperatorius.md), an enigmatic figure, supported by a trusted council of [[Keepers]] who are, likewise, rarely seen within the public domain, instead choosing to rule by trusted proxies and underlings, whose power becomes more diluted the further that one travels down the line of authority.
+&emsp;Governing this world is the [Lord Imperatorius](../../Titles%20&%20Ranks/Lord%20Imperatorius.md), an enigmatic figure, supported by a trusted council of [[Keepers]] who are, likewise, rarely seen within the public domain, instead choosing to rule by trusted proxies and underlings, whose power becomes more diluted the further that one travels down the line of authority.
 
 &emsp;As a result of this intentional choice, Tishan'La is largely feudal in how it is governed, with Lords upon Lords, Nobility upon Nobility, stacked atop one another with varying degrees of control over their respective demesne.
