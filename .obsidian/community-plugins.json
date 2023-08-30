@@ -16,5 +16,7 @@
   "obsidian-file-info-plugin",
   "heading-level-indent",
   "obsidian-note-autocreator",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "update-relative-links",
+  "tabout"
 ]
