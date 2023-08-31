@@ -87,23 +87,14 @@ The founder of the empire in its present state is [Levariel Demorial](../../Char
 ## Geopolitical
 
 ### Power Structure
-There is often debate on where power originates, both from the perspective of the average citizen, and from 
-Type and explanation of;
+&emsp;As a nation state, Tishan'La can be described as a Unitary, Autocratic state in which political power is concentrated around progressively smaller groups, the higher up the government one goes. The Lord Imperatorius, then, can be described as an appointed Dictator, who earned his position through unifying the disperate peoples of his world, after a cataclysmic conflict.
 
-- Autonomous area
-- Client State/Puppet State
-- Confederation
-- Dependent Territory
-- Federation
-- Feudal State
-- Provisional Government
-- Semi-Autonomous Area
-- Thalassocracy
-- Transnational Government
-- Unitary State
+&emsp;Directly under him, is the complex web of organisations headed by the Council Empyrean, which act as the hands of the Lord in their respective fields, and thus govern aspects of the empire in a day-to-day manner. Appointment to these positions can be described as Meritocratic, as each Keeper is chosen by the Lord Imperatorius. Those beneath each Keeper, then, are governed by what chosen form of governance appeals to them.
+
+&emsp;The Lords Proliferate, however, are an organisation of one thousand Lords and Ladies that hold more hereditary titles, lands, and honours. The origin of these accolades is mostly unknown, but, they function as a devolved form of fedual government, to hand regional and local affairs without the need for heavy-handed oversight.
 
 ### Economic System
-Type and rough explanation of;
+Rather curiously, the economy of Tishan'La is built upon a decentralised market 
 
 - Barter System
 - Command/Planned Economy

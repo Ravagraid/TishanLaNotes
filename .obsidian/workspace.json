@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0d327f9c48a0e042",
+        "id": "74f9049cd3e21157",
         "type": "tabs",
         "children": [
           {
-            "id": "e505f51664b9f289",
+            "id": "a73afd3c28d7b93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Political/Tishan'La (Empire).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "96ee4d5cc5f227ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Type Lists/Government Types.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Type Lists/Government Types.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Type Lists/Government Types.md"
+                "file": "Organisations/Political/Tishan'La (Empire).md"
               }
             }
           },
@@ -165,11 +179,11 @@
         "currentTab": 5
       },
       {
-        "id": "5cda42d3e756ad86",
+        "id": "bf2b252bbb8d910d",
         "type": "tabs",
         "children": [
           {
-            "id": "a51c11aa16440705",
+            "id": "e505f51664b9f289",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -198,11 +212,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e505f51664b9f289",
+  "active": "a73afd3c28d7b93c",
   "lastOpenFiles": [
     "Templates/Type Lists/Government Types.md",
-    "TODO.md",
     "Organisations/Political/Tishan'La (Empire).md",
+    "Rituals & Traditions/Starbinding Festival.md",
+    "Locations/Stellar/Three Spheres.md",
+    "Untitled.md",
+    "TODO.md",
     "Settlements/Sha'yvra.md",
     "Settlements",
     "Species/Sapient/Saurita.md",
@@ -226,9 +243,6 @@
     "Ethnicities/The Hive.md",
     "Documents/Great Tapestry.md",
     "Templates/Document.md",
-    "Templates/Type Lists/Document Type.md",
-    "Species/Sapient/Ceehur.md",
-    "Species/Sapient/Dekarln.md",
     "Characters/Deity",
     "Characters/Minor",
     "Characters/Major",
