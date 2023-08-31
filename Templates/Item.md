@@ -10,7 +10,7 @@ tags:
 # {{title}}
 <small>Pronunciation:</small>
 
-[[Item Type]]
+[[Item Type](Type%20Lists/Item%20Type.md)
 
 ## Introduction
 

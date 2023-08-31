@@ -11,7 +11,7 @@ tags:
 <small>Pronunciation:</small>
 <small>Alternative Names:</small>
 
-<small>[[Geography Type]]</small>
+<small>[[Geography Type](../../Templates/Type%20Lists/Geography%20Type.md)</small>
 
 ## Introduction
 

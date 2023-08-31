@@ -9,7 +9,7 @@ tags:
 
 # {{title}}
 <small>Pronunciation:</small>
-type; [[Title Types]]
+type; [[Title Types](Type%20Lists/Title%20Types.md)
 ## Introduction
 ## Generic
 ### Form Of Address

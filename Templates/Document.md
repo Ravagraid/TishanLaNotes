@@ -10,7 +10,7 @@ tags:
 # {{title}}
 <small>Pronunciation:</small>
 
-[[Document Type]]
+[[Document Type](Type%20Lists/Document%20Type.md)
 
 ## Introduction
 

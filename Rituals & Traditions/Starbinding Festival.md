@@ -6,13 +6,13 @@ tags:
 - Festival/Celebration
 ---
 
-# [[Starbinding Festival]]
+# Starbinding Festival
 <small>Pronunciation: as read out.</small>
 
 ## Introduction
 &emsp;The Empire, by its nature as a political entity that spans not merely one Wanderer, but a multitude of celestial bodies, plays host to a vast multitude of celebrations and practices that to outsiders, might seem either entirely pointless, or wholly ridiculous. Thus, do we discuss what is perhaps the most singular of events, wrought from the mind of the Lord Imperatorius himself and made into a rather secretive, but still celebratory occasion.
 
-&emsp;Within the hallowed halls of the [[Thronespire]], past guarded doors and warded paths exists the Lords most sacred of havens, devised as a respite from the rest of his domain, where no other might enter, without prior permission. Some have taken to calling it the Royal Menagerie, while others would call it a den of beasts, for that is a much more accurate term. Regardless of the label, it is within this inner haven that a ritual is observed on an annual basis, wholly unique to the denizens of his most decadent domain.
+&emsp;Within the hallowed halls of the [Thronespire](Thronespire.md), past guarded doors and warded paths exists the Lords most sacred of havens, devised as a respite from the rest of his domain, where no other might enter, without prior permission. Some have taken to calling it the Royal Menagerie, while others would call it a den of beasts, for that is a much more accurate term. Regardless of the label, it is within this inner haven that a ritual is observed on an annual basis, wholly unique to the denizens of his most decadent domain.
 
 &emsp;The celebration is of the “birth” of the Lord himself, who from the seemingly endless strife of disparate peoples, forged an Empire and bound those countless squabbling fiefdoms beneath its ever expanding influence. It is a day of celebration, of reverence and of worship, focused on the one being that succeeded where so many others had failed. It is also a day that only a select few, those being his personal collection of beasts, may celebrate, as such.. Public displays of authority would go against the notion that Tishan’La is united under a set of ideas, rather than under a single person.
 
@@ -46,7 +46,7 @@ Physical items used for the rituals of this custom. This can be religious items,
 #### Jhae'Sah
 &emsp;While it is the norm that one lists siblings in order of age, the Lord took to listing them in order of conquest instead, whilst nascent religious orders took to providing Janae with the appearance of the youngest sibling, that of a quiet, shy creature that holds in her heart an affection unparalleled. In early religious texts, she has been known to display bouts of playful, trickster-esque behaviour, designed to beguile and befuddle those that would seek mastery of her.
 
-&emsp;There would be no more perfect a depiction of the youngest sphere, than that held in [[The Disciples]] position, a fresco of sublime simplicity, which drew upon geometric shapes as a backdrop to the figure herself. In such a work, she is adorned in a muted blue and silver, both to represent the sphere itself, as well as to provide a distinct contrast to her warmer, brighter sisters.
+&emsp;There would be no more perfect a depiction of the youngest sphere, than that held in [[The Disciples](../Organisations/Religious/The%20Disciples.md) position, a fresco of sublime simplicity, which drew upon geometric shapes as a backdrop to the figure herself. In such a work, she is adorned in a muted blue and silver, both to represent the sphere itself, as well as to provide a distinct contrast to her warmer, brighter sisters.
 
 &emsp;During the festival itself, she can be demure, but can also be affectionate in wordless ways, such as clinging to the leg of her Lord, or leaning into even the slightest touch he might deign to give her. Of course, she would do so without hogging every affection that is handed out, but rather only what is directed at her, specifically.
 

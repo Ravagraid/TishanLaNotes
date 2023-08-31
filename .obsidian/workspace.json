@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "74f9049cd3e21157",
+        "id": "4d518289b59b17d8",
         "type": "tabs",
         "children": [
           {
-            "id": "a73afd3c28d7b93c",
+            "id": "538e1f6e023462f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "96ee4d5cc5f227ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Type Lists/Government Types.md",
+                "file": "Locations/Stellar/Three Spheres.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 302.5
   },
   "right": {
     "id": "cd476c45aef208f7",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
+                "file": "Locations/Stellar/Three Spheres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
+                "file": "Locations/Stellar/Three Spheres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md"
+                "file": "Locations/Stellar/Three Spheres.md"
               }
             }
           },
@@ -179,11 +165,11 @@
         "currentTab": 5
       },
       {
-        "id": "bf2b252bbb8d910d",
+        "id": "e009f588e18945ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e505f51664b9f289",
+            "id": "01e55d0ab0c5938c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -194,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,43 +198,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a73afd3c28d7b93c",
+  "active": "538e1f6e023462f8",
   "lastOpenFiles": [
-    "Templates/Type Lists/Government Types.md",
-    "Organisations/Political/Tishan'La (Empire).md",
-    "Rituals & Traditions/Starbinding Festival.md",
+    "The Twins.md",
     "Locations/Stellar/Three Spheres.md",
-    "Untitled.md",
-    "TODO.md",
-    "Settlements/Sha'yvra.md",
-    "Settlements",
-    "Species/Sapient/Saurita.md",
-    "Templates/Type Lists/Item Type.md",
-    "Templates/Type Lists/Organisation Types.md",
-    "Titles & Ranks/Keeper Of Beasts.md",
-    "Titles & Ranks/Keeper Of Coin.md",
-    "Titles & Ranks/Keeper.md",
-    "Titles & Ranks/Keeper Of Voices.md",
+    "Conflicts",
+    "Locations/Stellar/Planets/Grahle'varl.md",
+    "Pioneer Corps.md",
     "Organisations/Civil/Pioneers.md",
-    "Titles & Ranks/Keeper Of Paths.md",
-    "Titles & Ranks/Keeper Of Labour.md",
-    "Titles & Ranks/Keeper Of L.md",
-    "Titles & Ranks/Keeper Of Bulwarks.md",
-    "Titles & Ranks/Keeper Of Visions.md",
-    "Titles & Ranks",
-    "Organisations/Political/Council Empyrean.md",
-    "Languages/Yiaiasian.md",
-    "Languages",
-    "Ethnicities/The Hiveless.md",
-    "Ethnicities/The Hive.md",
-    "Documents/Great Tapestry.md",
-    "Templates/Document.md",
-    "Characters/Deity",
-    "Characters/Minor",
-    "Characters/Major",
-    "Characters",
-    "Species/Non-Sapient",
-    "Species/Sapient",
-    "Sapient"
+    "Locations/Stellar/Artificial Satellites/Jhri'so.md",
+    "Myths & Legends",
+    "Locations/Stellar/Anomalies",
+    "Locations/Stellar/Planets/Cahel’va.md",
+    "Species/Non-Sapient/Craea.md",
+    "Locations/Stellar/Planets/Chal'la.md",
+    "Organisations/Civil/Directorate Of Studies‌.md",
+    "Locations/Stellar/Natural Satellites/Shol'vaso.md",
+    "Conflicts/The Schism‌.md",
+    "Locations/Stellar/Natural Satellites/Huafa'vala.md",
+    "Locations/Stellar/Planets/Huael’la.md",
+    "Vehicles/Fashu’vari.md",
+    "Organisations/Civil/Fisher Barons.md",
+    "Myths & Legends/God Of The Seas.md",
+    "Species/Non-Sapient/Hlashe.md",
+    "Locations/Stellar/Planets/Graeja’eh.md",
+    "Locations/Stellar/Artificial Satellites/Great Ring of Laahe’vaso.md",
+    "Locations/Stellar/Planets/Laahe’vaso.md",
+    "Locations/Stellar/Planets/Fause'ca.md",
+    "Locations/Stellar/Artificial Satellites/Arctae'so.md",
+    "Locations/Stellar/Planets/Fesre’ka.md",
+    "Locations/Stellar/Anomalies/Gilas'Vael.md",
+    "Locations/Stellar/Artificial Satellites",
+    "Locations/Stellar/Planets/Moons",
+    "Locations/Stellar/Natural Satellites",
+    "Locations/Stellar/Planetoids",
+    "Locations/Stellar/Planets",
+    "Locations/Terrestrial",
+    "Materials"
   ]
 }

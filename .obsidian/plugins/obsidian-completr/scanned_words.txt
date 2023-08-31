@@ -195,6 +195,7 @@ theocratic
 types
 traditional
 theoretically
+terraforming
 Creation
 Contested
 Claims
@@ -402,6 +403,9 @@ Carthage
 Commune
 Communia
 COE
+Cults
+Craea
+Cahel
 Date
 Describe
 Does
@@ -517,6 +521,11 @@ De
 Dictator
 Distributism
 Decentralized
+Directly
+Dictatorial
+Determinancy
+Disciples
+Directorate
 Planet
 Parent
 Phenomena
@@ -657,6 +666,9 @@ Pakistan
 Pharaoh
 Property
 Police
+Pathways
+Pathfinder
+Planets
 date
 do
 develop
@@ -926,6 +938,9 @@ delegating
 disagreement
 deal
 domination
+disperate
+devolved
+decentralised
 small
 sea
 special
@@ -1362,6 +1377,7 @@ spiritual
 sultan
 solely
 suppressed
+sealed
 pronunciation
 plain
 populations
@@ -1834,6 +1850,8 @@ Liberation
 London
 Legitimacy
 Libertarian
+Ladies
+Laahe
 align
 access
 at
@@ -2098,6 +2116,9 @@ anarchist
 activity
 authorized
 adjective
+appeals
+accolades
+actors
 right
 rolling
 river
@@ -2329,6 +2350,7 @@ restriction
 republics
 regarded
 regnant
+regulartory
 System
 Settlements
 Specialised
@@ -2520,6 +2542,14 @@ Singapore
 Stateless
 Socialism
 Supranational
+Shalei
+Sustained
+Sahle
+Seas
+Schism
+Shol
+Studies
+Satellites
 Ruling
 Region
 Resources
@@ -2614,6 +2644,7 @@ Russia
 Republicanism
 Rome
 Renaissance
+Ring
 Body
 Belief
 Background
@@ -2841,6 +2872,8 @@ Aggression
 Authoritarian
 Athens
 Autocratic
+Arctae
+Artificial
 Names
 Notable
 Natural
@@ -2955,6 +2988,11 @@ Geniocracy
 Greek
 Germany
 Geo
+Gliders
+Gresha
+Godstear
+Grahle
+Gilas
 location
 lake
 landmarks
@@ -3398,6 +3436,8 @@ fought
 fiefs
 functioned
 framework
+fedual
+fixing
 mountain
 most
 monsoon
@@ -3588,6 +3628,11 @@ marriage
 management
 morals
 member
+mostly
+monopolising
+markets
+meaningful
+massive
 or
 of
 ocean
@@ -3709,6 +3754,8 @@ opposes
 our
 overlapping
 operation
+org
+opportunity
 hills
 have
 hail
@@ -3843,6 +3890,8 @@ human
 headed
 handful
 humanity
+honours
+habitats
 it
 interact
 interaction
@@ -3986,6 +4035,7 @@ intellectual
 includes
 international
 intergovernmental
+illustrate
 water
 whether
 wildlife
@@ -4114,6 +4164,7 @@ whereas
 whatever
 watchman
 whoever
+web
 via
 views
 vistas
@@ -4180,6 +4231,11 @@ variant
 vassals
 virtually
 varies
+vari
+vala
+vaso
+vertically
+varl
 edge
 environment
 ecosystem
@@ -4409,6 +4465,9 @@ east
 empress
 economics
 entire
+earned
+el
+eliptical
 You
 Year
 Yiale
@@ -4788,6 +4847,9 @@ configurations
 communes
 clarity
 compulsory
+cataclysmic
+contain
+comparatively
 natural
 near
 nearby
@@ -5030,6 +5092,8 @@ bank
 behavior
 bureaus
 behest
+bolstered
+bad
 How
 History
 Heavy
@@ -5097,6 +5161,8 @@ Honduras
 Hierarchy
 Heredity
 Historically
+Hlashe
+Huafa
 Ecosystem
 Education
 Equipment
@@ -5320,6 +5386,9 @@ Then
 Theft
 Totalitarianism
 Today
+Tishli
+Thronespire
+Terrestrial
 year
 you
 your
@@ -5506,6 +5575,10 @@ Forster
 Federal
 Feudalism
 Fraud
+Fesre
+Fisher
+Fashu
+Fauce
 Wood
 What
 Where
@@ -5691,6 +5764,7 @@ Monarchism
 Monaco
 Micro
 Medieval
+Make
 Owning
 Origins
 Organisations
@@ -5755,6 +5829,7 @@ John
 Japan
 Joseph
 Junta
+Jhri
 Use
 Untrained
 Unlikeable
@@ -5814,6 +5889,7 @@ knowledgeable
 kleptocratic
 kleptocracy
 know
+ka
 Vehicle
 Viral
 Vectors
@@ -5855,6 +5931,7 @@ VI
 Vatican
 Vietnam
 Voluntaryism
+Vala
 quirk
 quirks
 quickly
@@ -5871,6 +5948,7 @@ Zero
 Zealand
 Zedong
 Zimbabwe
+Zhendra
 Known
 Knightly
 Kingdom
@@ -5895,6 +5973,7 @@ Kings
 Kleptocracy
 Kinship
 Korean
+Kah
 zone
 zhusa
 jurisdiction
