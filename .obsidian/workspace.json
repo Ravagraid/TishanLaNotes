@@ -85,23 +85,23 @@
             }
           },
           {
-            "id": "9dbc2c313bf2e1ec",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b4673b2fb6c2fb3e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e91fa4d702b44c14",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,13 +221,14 @@
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-file-info-plugin:File Info Panel": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "a76695b614f809cc",
   "lastOpenFiles": [
+    "Organisations/Political/Tishan'La (Empire).md",
     "Misc/TODO.md",
     "Titles & Ranks/Lord Imperatorius.md",
     "Organisations/Military/Frontier Watch.md",
@@ -259,7 +260,6 @@
     "Myths & Legends",
     "Locations/Stellar/Anomalies",
     "Locations/Stellar/Planets/Cahel’va.md",
-    "Species/Non-Sapient/Craea.md",
     "Locations/Stellar/Artificial Satellites",
     "Locations/Stellar/Planets/Moons",
     "Locations/Stellar/Natural Satellites",

@@ -4041,6 +4041,9 @@ includes
 international
 intergovernmental
 illustrate
+innovated
+inadvertant
+innovations
 water
 whether
 wildlife
@@ -4855,6 +4858,7 @@ compulsory
 cataclysmic
 contain
 comparatively
+capitalise
 natural
 near
 nearby

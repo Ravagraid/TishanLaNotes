@@ -96,16 +96,7 @@ The founder of the empire in its present state is [Levariel Demorial](../../Char
 (Make sure to add an org chart of some kind to better illustrate)
 
 ### Economic System
-Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](../Civil/Zhendra%20Determinancy.md), under the Keeper Of Coin as an attempt to keep bad actors from monopolising certain markets.
-
-- Barter System
-- Command/Planned Economy
-- Gift Economy
-- Market Economy
-- Mixed Economy
-- Palace Economy
-- Post-Scarcity Economy
-- Traditional
+&emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](../Civil/Zhendra%20Determinancy.md), under the Keeper Of Coin as an attempt to keep bad actors from monopolising certain markets. As an inadvertant result of this free market, certain innovations were made to capitalise on the notion of supply and demand, to make transactions easier for the layman.
 
 ### Neighbouring Geopolitical Organisations
 
