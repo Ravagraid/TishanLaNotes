@@ -8,17 +8,17 @@
         "type": "split",
         "children": [
           {
-            "id": "669ceb73e4a4106f",
+            "id": "df36214305d8962c",
             "type": "tabs",
-            "dimension": 80.19801980198021,
+            "dimension": 80.1980198019802,
             "children": [
               {
-                "id": "3423b9cc79375475",
+                "id": "a76695b614f809cc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Titles & Ranks/Lord Imperatorius.md",
+                    "file": "Organisations/Political/Tishan'La (Empire).md",
                     "mode": "source",
                     "backlinks": false,
                     "source": true
@@ -30,7 +30,7 @@
           {
             "id": "6ac0fd236c10a698",
             "type": "tabs",
-            "dimension": 19.801980198019802,
+            "dimension": 19.8019801980198,
             "children": [
               {
                 "id": "d5293924810fe431",
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Titles & Ranks/Lord Imperatorius.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Titles & Ranks/Lord Imperatorius.md",
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Titles & Ranks/Lord Imperatorius.md"
+                "file": "Organisations/Political/Tishan'La (Empire).md"
               }
             }
           },
@@ -226,18 +226,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3423b9cc79375475",
+  "active": "a76695b614f809cc",
   "lastOpenFiles": [
-    "Frontier Watch.md",
+    "Misc/TODO.md",
     "Titles & Ranks/Lord Imperatorius.md",
-    "Border Colonies.md",
-    "Frontier Council.md",
-    "Trascka The Explorer.md",
-    "Traexar Scrix.md",
+    "Organisations/Military/Frontier Watch.md",
+    "Locations/Border Colonies.md",
+    "Organisations/Political/Frontier Council.md",
+    "Characters/Major/Trascka The Explorer.md",
+    "Characters/Major/Traexar Scrix.md",
     "Characters/Deity/The See.md",
     "Characters/Deity/Ambre.md",
     "Characters/Deity/Aumann.md",
-    "Misc/TODO.md",
     "Rituals & Traditions/Starbinding Festival.md",
     "Locations/Stellar/Endless Sea.md",
     "Rituals & Traditions/Foundersday.md",
