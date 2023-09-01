@@ -406,6 +406,7 @@ COE
 Cults
 Craea
 Cahel
+Conflicts
 Date
 Describe
 Does
@@ -1378,6 +1379,7 @@ sultan
 solely
 suppressed
 sealed
+specialised
 pronunciation
 plain
 populations
@@ -2119,6 +2121,7 @@ adjective
 appeals
 accolades
 actors
+altering
 right
 rolling
 river
