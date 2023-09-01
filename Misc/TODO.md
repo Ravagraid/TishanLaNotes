@@ -1,6 +1,6 @@
 - [x] Fix Links in [Tishan'La (Empire)](../Organisations/Political/Tishan'La%20(Empire).md)
 - [x] Fix Links in [Three Spheres](../Locations/Stellar/Three%20Spheres.md)
-- [ ] Fix Links in [Starbinding Festival](../Rituals%20&%20Traditions/Starbinding%20Festival.md)
+- [x] Fix Links in [Starbinding Festival](../Rituals%20&%20Traditions/Starbinding%20Festival.md)
 - [ ] Fix Links in [Lord Imperatorius](../Titles%20&%20Ranks/Lord%20Imperatorius.md)
 
 # Articles To Format/Start

@@ -2877,6 +2877,8 @@ Athens
 Autocratic
 Arctae
 Artificial
+Aumann
+Ambre
 Names
 Notable
 Natural
@@ -5582,6 +5584,7 @@ Fesre
 Fisher
 Fashu
 Fauce
+Foundersday
 Wood
 What
 Where

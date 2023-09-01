@@ -4,40 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd13ffbe51f9428",
+        "id": "8556a8888f26e3a6",
         "type": "split",
         "children": [
           {
-            "id": "4d518289b59b17d8",
+            "id": "669ceb73e4a4106f",
             "type": "tabs",
             "dimension": 80.19801980198021,
             "children": [
               {
-                "id": "538e1f6e023462f8",
+                "id": "3423b9cc79375475",
                 "type": "leaf",
                 "state": {
-                  "type": "diff-view",
+                  "type": "markdown",
                   "state": {
-                    "file": "Locations/Stellar/Three Spheres.md",
-                    "staged": false
+                    "file": "Titles & Ranks/Lord Imperatorius.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
                   }
                 }
               }
             ]
           },
           {
-            "id": "f9c6d78de6e4328d",
+            "id": "6ac0fd236c10a698",
             "type": "tabs",
             "dimension": 19.801980198019802,
             "children": [
               {
-                "id": "5236f7be77888d7e",
+                "id": "d5293924810fe431",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Misc/TODO.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": true
                   }
@@ -65,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Spire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Titles & Ranks/Lord Imperatorius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Titles & Ranks/Lord Imperatorius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Titles & Ranks/Lord Imperatorius.md"
+              }
             }
           },
           {
@@ -187,11 +193,11 @@
         "currentTab": 5
       },
       {
-        "id": "e009f588e18945ff",
+        "id": "9b07ce5414bf1c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "01e55d0ab0c5938c",
+            "id": "612f989ed3292594",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -220,13 +226,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "538e1f6e023462f8",
+  "active": "3423b9cc79375475",
   "lastOpenFiles": [
-    "Locations/Stellar/Three Spheres.md",
+    "Frontier Watch.md",
+    "Titles & Ranks/Lord Imperatorius.md",
+    "Border Colonies.md",
+    "Frontier Council.md",
+    "Trascka The Explorer.md",
+    "Traexar Scrix.md",
+    "Characters/Deity/The See.md",
+    "Characters/Deity/Ambre.md",
+    "Characters/Deity/Aumann.md",
     "Misc/TODO.md",
+    "Rituals & Traditions/Starbinding Festival.md",
+    "Locations/Stellar/Endless Sea.md",
+    "Rituals & Traditions/Foundersday.md",
+    "Locations/Stellar/Three Spheres.md",
+    "Templates/Building.md",
+    "Locations/Terrestrial/The Spires.md",
+    "Buildings/Monolithic",
+    "Monolithic",
+    "Buildings",
+    "Locations/Terrestrial/Thronespire.md",
+    "Organisations/Religious/The Sustained Church.md",
+    "Locations/Stellar/Road.md",
     "The Twins.md",
     "Conflicts",
-    "Locations/Stellar/Planets/Grahle'varl.md",
+    "Locations/Stellar/Natural Satellites/Grahle'varl.md",
     "Pioneer Corps.md",
     "Organisations/Civil/Pioneers.md",
     "Locations/Stellar/Artificial Satellites/Jhri'so.md",
@@ -234,29 +260,9 @@
     "Locations/Stellar/Anomalies",
     "Locations/Stellar/Planets/Cahel’va.md",
     "Species/Non-Sapient/Craea.md",
-    "Locations/Stellar/Planets/Chal'la.md",
-    "Organisations/Civil/Directorate Of Studies‌.md",
-    "Locations/Stellar/Natural Satellites/Shol'vaso.md",
-    "Conflicts/The Schism‌.md",
-    "Locations/Stellar/Natural Satellites/Huafa'vala.md",
-    "Locations/Stellar/Planets/Huael’la.md",
-    "Vehicles/Fashu’vari.md",
-    "Organisations/Civil/Fisher Barons.md",
-    "Myths & Legends/God Of The Seas.md",
-    "Species/Non-Sapient/Hlashe.md",
-    "Locations/Stellar/Planets/Graeja’eh.md",
-    "Locations/Stellar/Artificial Satellites/Great Ring of Laahe’vaso.md",
-    "Locations/Stellar/Planets/Laahe’vaso.md",
-    "Locations/Stellar/Planets/Fause'ca.md",
-    "Locations/Stellar/Artificial Satellites/Arctae'so.md",
-    "Locations/Stellar/Planets/Fesre’ka.md",
-    "Locations/Stellar/Anomalies/Gilas'Vael.md",
     "Locations/Stellar/Artificial Satellites",
     "Locations/Stellar/Planets/Moons",
     "Locations/Stellar/Natural Satellites",
-    "Locations/Stellar/Planetoids",
-    "Locations/Stellar/Planets",
-    "Locations/Terrestrial",
-    "Materials"
+    "Locations/Stellar/Planetoids"
   ]
 }
