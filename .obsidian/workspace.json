@@ -16,12 +16,10 @@
                 "id": "a76695b614f809cc",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "diff-view",
                   "state": {
-                    "file": "Organisations/Political/Tishan'La (Empire).md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": true
+                    "file": ".obsidian/plugins/file-tree-alternative/data.json",
+                    "staged": false
                   }
                 }
               }
@@ -121,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md"
-              }
+              "state": {}
             }
           },
           {
