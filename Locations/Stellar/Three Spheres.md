@@ -17,7 +17,7 @@ Type: Star Cluster</small>
 <small>Ruling Body: [Tishan'La (Empire)](../../Organisations/Political/Tishan'La%20(Empire).md) <br>
 Contested Claims:</small>
 
-&emsp;The Three Spheres, as they are commonly referred to, are a trio of suns that are within a close enough proximity of each other to allow for the connection of a series of [Pathways](../../Technology/Pathways.md) as a method of near-instantaneous transportation. Of course, this isn't the only method, as there are the countless courier [Gliders](../../Vehicles/Gliders.md) and unmanned [Pathfinder](../../Vehicles/Pathfinder.md) vessels that move between the Three Spheres in pre-determined routes. The routes between each Sphere have no official name, besides commonly the commonly accepted term of [Road](Road.md).
+&emsp;The Three Spheres, as they are commonly referred to, are a trio of suns that are within a close enough proximity of each other to allow for the connection of a series of [Pathways](../../Technologies/Pathways.md) as a method of near-instantaneous transportation. Of course, this isn't the only method, as there are the countless courier [Gliders](../../Vehicles/Gliders.md) and unmanned [Pathfinder](../../Vehicles/Pathfinder.md) vessels that move between the Three Spheres in pre-determined routes. The routes between each Sphere have no official name, besides commonly the commonly accepted term of [Road](Road.md).
 
 &emsp;While the domain of Tishan'La does in fact extend beyond the Three Spheres into smaller, less populated regions, commonly referred to as the [Far Realms](Far%20Realms.md). These realms are as small as one might expect, with some being little more than an outpost housing a half-dozen.
 

@@ -4,49 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8556a8888f26e3a6",
-        "type": "split",
+        "id": "9124f204d5b845be",
+        "type": "tabs",
         "children": [
           {
-            "id": "df36214305d8962c",
-            "type": "tabs",
-            "dimension": 80.1980198019802,
-            "children": [
-              {
-                "id": "a76695b614f809cc",
-                "type": "leaf",
-                "state": {
-                  "type": "diff-view",
-                  "state": {
-                    "file": ".obsidian/plugins/file-tree-alternative/data.json",
-                    "staged": false
-                  }
-                }
+            "id": "f1e096d1068d54e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Political/Tishan'La (Empire).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "6ac0fd236c10a698",
-            "type": "tabs",
-            "dimension": 19.8019801980198,
-            "children": [
-              {
-                "id": "d5293924810fe431",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Misc/TODO.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organisations/Political/Tishan'La (Empire).md"
+              }
             }
           },
           {
@@ -220,10 +198,20 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a76695b614f809cc",
+  "active": "f1e096d1068d54e9",
   "lastOpenFiles": [
     "Organisations/Political/Tishan'La (Empire).md",
     "Misc/TODO.md",
+    "Locations/Stellar/Three Spheres.md",
+    "Materials/Shardrask.md",
+    "Languages/Ceehuri.md",
+    "Languages/Tekali.md",
+    "Languages/Tyra.md",
+    "Organisations/Political/Lords Proliferate.md",
+    "Languages/Kliks.md",
+    "Species/Sapient/Kaluk Dathal.md",
+    "Languages/Tishresha.md",
+    "Technologies/Accredation mark.md",
     "Titles & Ranks/Lord Imperatorius.md",
     "Organisations/Military/Frontier Watch.md",
     "Locations/Border Colonies.md",
@@ -236,24 +224,14 @@
     "Rituals & Traditions/Starbinding Festival.md",
     "Locations/Stellar/Endless Sea.md",
     "Rituals & Traditions/Foundersday.md",
-    "Locations/Stellar/Three Spheres.md",
     "Templates/Building.md",
     "Locations/Terrestrial/The Spires.md",
     "Buildings/Monolithic",
     "Monolithic",
     "Buildings",
-    "Locations/Terrestrial/Thronespire.md",
-    "Organisations/Religious/The Sustained Church.md",
-    "Locations/Stellar/Road.md",
-    "The Twins.md",
     "Conflicts",
-    "Locations/Stellar/Natural Satellites/Grahle'varl.md",
-    "Pioneer Corps.md",
-    "Organisations/Civil/Pioneers.md",
-    "Locations/Stellar/Artificial Satellites/Jhri'so.md",
     "Myths & Legends",
     "Locations/Stellar/Anomalies",
-    "Locations/Stellar/Planets/Cahel’va.md",
     "Locations/Stellar/Artificial Satellites",
     "Locations/Stellar/Planets/Moons",
     "Locations/Stellar/Natural Satellites",

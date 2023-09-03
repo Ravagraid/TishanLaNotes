@@ -196,6 +196,7 @@ types
 traditional
 theoretically
 terraforming
+table
 Creation
 Contested
 Claims
@@ -407,6 +408,8 @@ Cults
 Craea
 Cahel
 Conflicts
+Chief
+Ceehuri
 Date
 Describe
 Does
@@ -527,6 +530,8 @@ Dictatorial
 Determinancy
 Disciples
 Directorate
+Dathal
+Denomination
 Planet
 Parent
 Phenomena
@@ -942,6 +947,9 @@ domination
 disperate
 devolved
 decentralised
+developments
+denoting
+div
 small
 sea
 special
@@ -1380,6 +1388,7 @@ solely
 suppressed
 sealed
 specialised
+sizes
 pronunciation
 plain
 populations
@@ -1698,6 +1707,8 @@ prohibited
 prescribed
 possessions
 progressively
+plural
+purchasing
 Introduction
 Is
 Important
@@ -2122,6 +2133,8 @@ appeals
 accolades
 actors
 altering
+adoption
+alternate
 right
 rolling
 river
@@ -2354,6 +2367,7 @@ republics
 regarded
 regnant
 regulartory
+reserves
 System
 Settlements
 Specialised
@@ -2553,6 +2567,11 @@ Schism
 Shol
 Studies
 Satellites
+Skar
+Skarii
+Scar
+Shardrask
+Standard
 Ruling
 Region
 Resources
@@ -2648,6 +2667,8 @@ Republicanism
 Rome
 Renaissance
 Ring
+Respectively
+Real
 Body
 Belief
 Background
@@ -2733,6 +2754,8 @@ Borgia
 Bureaucracy
 Breach
 Based
+Below
+Buying
 Alternative
 Are
 Alterations
@@ -2879,6 +2902,8 @@ Arctae
 Artificial
 Aumann
 Ambre
+Accredation
+AM
 Names
 Notable
 Natural
@@ -3144,6 +3169,8 @@ lasts
 legislation
 labor
 limiting
+lowest
+labyrinthine
 geographic
 grow
 govern
@@ -3443,6 +3470,7 @@ functioned
 framework
 fedual
 fixing
+finite
 mountain
 most
 monsoon
@@ -3638,6 +3666,7 @@ monopolising
 markets
 meaningful
 massive
+measurement
 or
 of
 ocean
@@ -4173,6 +4202,7 @@ whatever
 watchman
 whoever
 web
+withstanding
 via
 views
 vistas
@@ -4244,6 +4274,7 @@ vala
 vaso
 vertically
 varl
+vaults
 edge
 environment
 ecosystem
@@ -4859,6 +4890,8 @@ cataclysmic
 contain
 comparatively
 capitalise
+counted
+center
 natural
 near
 nearby
@@ -5103,6 +5136,7 @@ bureaus
 behest
 bolstered
 bad
+backed
 How
 History
 Heavy
@@ -5398,6 +5432,9 @@ Today
 Tishli
 Thronespire
 Terrestrial
+Tishresha
+Tyra
+Tekali
 year
 you
 your
@@ -5984,6 +6021,8 @@ Kleptocracy
 Kinship
 Korean
 Kah
+Kaluk
+Kliks
 zone
 zhusa
 jurisdiction

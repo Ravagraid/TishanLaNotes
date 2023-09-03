@@ -28,6 +28,14 @@
 - [ ] [Keeper Of Coin](../Titles%20&%20Ranks/Keeper%20Of%20Coin.md)
 - [ ] [Keeper Of Beasts](../Titles%20&%20Ranks/Keeper%20Of%20Beasts.md)
 - [ ] [Lords Proliferate](../Organisations/Political/Lords%20Proliferate.md)
+- [ ] [Council Bondsmen](../Organisations/Council%20Bondsmen.md)
+- [ ] [Zhendra Determinancy](../Organisations/Civil/Zhendra%20Determinancy.md)
+- [ ] [Accredation mark](../Technologies/Accredation%20mark.md)
+- [ ] [Tishresha](../Languages/Tishresha.md)
+- [ ] [Kliks](../Languages/Kliks.md)
+- [ ] [Tyra](../Languages/Tyra.md)
+- [ ] [Tekali](../Languages/Tekali.md)
+- [ ] [Ceehuri](../Languages/Ceehuri.md)
 
 # Articles To Finish
 - [ ] [Tishan'La (Empire)](../Organisations/Political/Tishan'La%20(Empire).md)

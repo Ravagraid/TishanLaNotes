@@ -17,7 +17,10 @@ System of Governance: Dictatorial Meritocracy<br>
 Demonym: [Tishan'La'Ni](../../Ethnicities/Tishan'La'Ni.md) <br>
 Current Ruler: [Lord Imperatorius](../../Titles%20&%20Ranks/Lord%20Imperatorius.md) [Levariel Demorial](../../Characters/Major/Levariel%20Demorial.md) <br>
 Seat Of Power: [Sha'yvra](../../Settlements/Sha'yvra.md)
-Recognised Subjects: [Tishan'La'Ni](../../Species/Sapient/Tishan'La'Ni.md), [Kahlkili](../../Species/Sapient/Kahlkili.md), [Saurita](../../Species/Sapient/Saurita.md), [Yiale](../../Species/Sapient/Yiale.md), [Dekarln](../../Species/Sapient/Dekarln.md), and [Ceehur](../../Species/Sapient/Ceehur.md)</small>
+Official Language: [Tishresha](../../Languages/Tishresha.md)</small>
+
+<small>Recognised Subjects: [Tishan'La'Ni](../../Species/Sapient/Tishan'La'Ni.md), [Kahlkili](../../Species/Sapient/Kahlkili.md), [Saurita](../../Species/Sapient/Saurita.md), [Yiale](../../Species/Sapient/Yiale.md), [Dekarln](../../Species/Sapient/Dekarln.md), [Ceehur](../../Species/Sapient/Ceehur.md) and [Kaluk Dathal](../../Species/Sapient/Kaluk%20Dathal.md) <br>
+Recognised Languages (Respectively): [Kliks](../../Languages/Kliks.md), [Tyra](../../Languages/Tyra.md), [Yiaiasian](../../Languages/Yiaiasian.md), [Tekali](../../Languages/Tekali.md), and [Ceehuri](../../Languages/Ceehuri.md)</small>
 
 ## Introduction
 &emsp;The Empire of Tishan’La is a sovereign, interstellar nation state that spans [Three Spheres](../../Locations/Stellar/Three%20Spheres.md) thus far, with plans to expand further afield into what has commonly been called the [Far Realms](../../Locations/Stellar/Far%20Realms.md), a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the empty void. The Empire itself has conducted many a census in the past, but due to clerical errors, Byzantine bureaucracy, and in some cases the destruction of the records wholesale, the exact number of individuals within the Empire cannot be ascertained. Due to this, only an approximation from prior attempts at a national census, currently exists. This number, though widely disputed by many, ranges between 39 and 40 billion souls at its current peak, though there have been instances where that number was drastically reduced, to half if not less.
@@ -98,15 +101,14 @@ The founder of the empire in its present state is [Levariel Demorial](../../Char
 ### Economic System
 &emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](../Civil/Zhendra%20Determinancy.md), under the Keeper Of Coin as an attempt to keep bad actors from monopolising certain markets. As an inadvertant result of this free market, certain innovations were made to capitalise on the notion of supply and demand, to make transactions easier for the layman.
 
-### Neighbouring Geopolitical Organisations
-
-### Recognised and official Languages
-
-### Gazetteer
-A geographical index of the important locations under the control of this Organisation.
-
 ### Official Currency
-Technically not relevant for secret societies, or other underground organisations that use the currency of the establishment they're hiding under. However, how do the members/citizens of this organization conduct day to day or large transactions. What is the coinage or other type of currency used and what are its denominations. Consider notes, credits, shells, bottle caps, credit cards, subdermal chips, gold bullion or souls.
+There is only one currency within the Empire that holds value, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of the currency, and is counted in units of 12, much like other systems of measurement that the Empire uses. The Skar is backed by what's known as the [Shardrask](../../Materials/Shardrask.md) Standard, where in the value of the currency is based upon the finite reserves of Shardrask that the Empire holds within its labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, not withstanding certain environmental and economic factors;
+
+| Denomination | Real Value | Buying Power |
+| ------------ | ---------- | ------------ |
+| 1 Skar       | 1 Skar     |              | 
+
+(Make sure to mention the [Accredation mark](../../Technologies/Accredation%20mark.md))
 
 ### Legislative Body
 Who writes the laws and rules that make this organization function?
