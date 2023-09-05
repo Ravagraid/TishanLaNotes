@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1e096d1068d54e9",
+            "id": "2afbd81577830ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,11 +198,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f1e096d1068d54e9",
+  "active": "2afbd81577830ab0",
   "lastOpenFiles": [
     "Organisations/Political/Tishan'La (Empire).md",
-    "Misc/TODO.md",
+    "Misc/Counting System.md",
+    "Titles & Ranks/Keeper.md",
     "Locations/Stellar/Three Spheres.md",
+    "Misc/TODO.md",
     "Materials/Shardrask.md",
     "Languages/Ceehuri.md",
     "Languages/Tekali.md",
@@ -224,8 +226,6 @@
     "Rituals & Traditions/Starbinding Festival.md",
     "Locations/Stellar/Endless Sea.md",
     "Rituals & Traditions/Foundersday.md",
-    "Templates/Building.md",
-    "Locations/Terrestrial/The Spires.md",
     "Buildings/Monolithic",
     "Monolithic",
     "Buildings",

@@ -6,6 +6,30 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2023-09-05T03:52:47.823Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-09-04T19:42:48.553Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2023-09-03T22:53:08.317Z",
       "total": 0,
       "drafts": {

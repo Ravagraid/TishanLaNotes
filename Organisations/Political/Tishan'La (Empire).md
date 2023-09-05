@@ -102,10 +102,20 @@ The founder of the empire in its present state is [Levariel Demorial](../../Char
 &emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](../Civil/Zhendra%20Determinancy.md), under the Keeper Of Coin as an attempt to keep bad actors from monopolising certain markets. As an inadvertant result of this free market, certain innovations were made to capitalise on the notion of supply and demand, to make transactions easier for the layman.
 
 ### Official Currency
-There is only one currency within the Empire that holds value, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of the currency, and is counted in units of 12, much like other systems of measurement that the Empire uses. The Skar is backed by what's known as the [Shardrask](../../Materials/Shardrask.md) Standard, where in the value of the currency is based upon the finite reserves of Shardrask that the Empire holds within its labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, not withstanding certain environmental and economic factors;
+There is only one currency within the Empire that holds value, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of the currency, and is counted in units of 12[^1], much like other systems of measurement that the Empire uses. The Skar is backed by what's known as the [Shardrask](../../Materials/Shardrask.md) Standard, where in the value of the currency is based upon the finite reserves of Shardrask that the Empire holds within its labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, not withstanding certain environmental and economic factors;
+
+|  Coin  |  S  |  Si  | Sl   |
+|:------:|:---:|:----:| ---- |
+|  Skar  |  1  | 1/12 | 1/24 | 
+| Skarsi | 12  |  1   | 1/12 |
+| Skarel | 24  |  12  | 1    |
+<small>Reference;<br>
+Skar => S<br>
+Skarsi => Si<br>
+Skarel => Sl</small>
 
 | Denomination | Real Value | Buying Power |
-| ------------ | ---------- | ------------ |
+| :------------: | :----------: | :------------: |
 | 1 Skar       | 1 Skar     |              | 
 
 (Make sure to mention the [Accredation mark](../../Technologies/Accredation%20mark.md))
@@ -159,3 +169,5 @@ What are the physical assets of your organization which assure its health and we
 
 ### Technological and Scientific Level
 Which technologies are widely available to the citizens of this nation and which groundbreaking achievements give its military an edge? Any specific technologies the nation has developed or manufactures domestically?
+
+[^1]: See: [Counting System](../../Misc/Counting%20System.md)

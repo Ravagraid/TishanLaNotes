@@ -410,6 +410,7 @@ Cahel
 Conflicts
 Chief
 Ceehuri
+Counting
 Date
 Describe
 Does
@@ -2572,6 +2573,10 @@ Skarii
 Scar
 Shardrask
 Standard
+Si
+Skarsi
+Skarel
+Sl
 Ruling
 Region
 Resources
@@ -2669,6 +2674,7 @@ Renaissance
 Ring
 Respectively
 Real
+Reference
 Body
 Belief
 Background
@@ -4892,6 +4898,7 @@ comparatively
 capitalise
 counted
 center
+counting
 natural
 near
 nearby
@@ -4970,6 +4977,7 @@ nomocracy
 negotiate
 native
 north
+numbers
 beauty
 biological
 balls
@@ -5301,6 +5309,7 @@ East
 Egypt
 Eritrea
 Earth
+Example
 Think
 The
 Tourism
@@ -5812,6 +5821,7 @@ Monaco
 Micro
 Medieval
 Make
+Misc
 Owning
 Origins
 Organisations
