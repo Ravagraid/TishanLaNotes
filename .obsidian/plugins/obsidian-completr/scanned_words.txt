@@ -197,6 +197,7 @@ traditional
 theoretically
 terraforming
 table
+tenth
 Creation
 Contested
 Claims
@@ -411,6 +412,8 @@ Conflicts
 Chief
 Ceehuri
 Counting
+Cost
+Chiefly
 Date
 Describe
 Does
@@ -951,6 +954,8 @@ decentralised
 developments
 denoting
 div
+drafts
+draft
 small
 sea
 special
@@ -1390,6 +1395,10 @@ suppressed
 sealed
 specialised
 sizes
+sq
+silk
+saffron
+scrutiny
 pronunciation
 plain
 populations
@@ -1710,6 +1719,10 @@ possessions
 progressively
 plural
 purchasing
+pepper
+pig
+platinum
+possibilities
 Introduction
 Is
 Important
@@ -2136,6 +2149,8 @@ actors
 altering
 adoption
 alternate
+approval
+assembled
 right
 rolling
 river
@@ -2369,6 +2384,8 @@ regarded
 regnant
 regulartory
 reserves
+remaining
+redraft
 System
 Settlements
 Specialised
@@ -2577,6 +2594,10 @@ Si
 Skarsi
 Skarel
 Sl
+Sh
+Skarsha
+Skarla
+Sexennial
 Ruling
 Region
 Resources
@@ -2910,6 +2931,7 @@ Aumann
 Ambre
 Accredation
 AM
+Across
 Names
 Notable
 Natural
@@ -3029,6 +3051,7 @@ Gresha
 Godstear
 Grahle
 Gilas
+Gathering
 location
 lake
 landmarks
@@ -3291,6 +3314,9 @@ gradually
 generally
 governors
 goes
+ginger
+goat
+gathered
 features
 fresh
 ferrous
@@ -3477,6 +3503,7 @@ framework
 fedual
 fixing
 finite
+flour
 mountain
 most
 monsoon
@@ -3673,6 +3700,7 @@ markets
 meaningful
 massive
 measurement
+multistep
 or
 of
 ocean
@@ -3796,6 +3824,7 @@ overlapping
 operation
 org
 opportunity
+ox
 hills
 have
 hail
@@ -4209,6 +4238,7 @@ watchman
 whoever
 web
 withstanding
+wheat
 via
 views
 vistas
@@ -4899,6 +4929,14 @@ capitalise
 counted
 center
 counting
+chicken
+costs
+canvas
+copper
+cotton
+cloth
+cinnamon
+cloves
 natural
 near
 nearby
@@ -4978,6 +5016,7 @@ negotiate
 native
 north
 numbers
+ninth
 beauty
 biological
 balls
@@ -5310,6 +5349,7 @@ Egypt
 Eritrea
 Earth
 Example
+Every
 Think
 The
 Tourism
@@ -5459,6 +5499,7 @@ yellow
 yacht
 yvra
 yielding
+yd
 unpredictable
 under
 used
@@ -5695,6 +5736,7 @@ Worldrend
 Wired
 Wherein
 Worker
+Wheat
 Main
 Mineral
 Military

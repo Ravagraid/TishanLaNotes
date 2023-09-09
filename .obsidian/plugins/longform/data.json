@@ -6,6 +6,42 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2023-09-09T10:31:16.621Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-09-07T11:29:00.618Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-09-06T16:43:38.219Z",
+      "total": 0,
+      "drafts": {
+        "Longform Project/Primer/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2023-09-05T03:52:47.823Z",
       "total": 0,
       "drafts": {

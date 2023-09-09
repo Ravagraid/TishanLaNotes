@@ -102,26 +102,48 @@ The founder of the empire in its present state is [Levariel Demorial](../../Char
 &emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](../Civil/Zhendra%20Determinancy.md), under the Keeper Of Coin as an attempt to keep bad actors from monopolising certain markets. As an inadvertant result of this free market, certain innovations were made to capitalise on the notion of supply and demand, to make transactions easier for the layman.
 
 ### Official Currency
-There is only one currency within the Empire that holds value, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of the currency, and is counted in units of 12[^1], much like other systems of measurement that the Empire uses. The Skar is backed by what's known as the [Shardrask](../../Materials/Shardrask.md) Standard, where in the value of the currency is based upon the finite reserves of Shardrask that the Empire holds within its labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, not withstanding certain environmental and economic factors;
+&emsp;There is only one currency within the Empire that holds value, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of the currency, and is counted in units of 12[^1], much like other systems of measurement that the Empire uses. The Skar is backed by what's known as the [Shardrask](../../Materials/Shardrask.md) Standard, where in the value of the currency is based upon the finite reserves of Shardrask that the Empire holds within its labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, not withstanding certain environmental and economic factors;
 
-|  Coin  |  S  |  Si  | Sl   |
-|:------:|:---:|:----:| ---- |
-|  Skar  |  1  | 1/12 | 1/24 | 
-| Skarsi | 12  |  1   | 1/12 |
-| Skarel | 24  |  12  | 1    |
+|  Coin   |  S   |  Si  |  Sl  |  Sh   |   la   |
+|:-------:|:----:|:----:|:----:|:-----:|:------:|
+|  Skar   |  1   | 1/12 | 1/36 | 1/144 | 1/1728 |
+| Skarsi  |  12  |  1   | 1/6  | 1/12  | 1/144  |
+| Skarel  |  72  |  6   |  1   |  1/2  |  1/24  |
+| Skarsha | 144  |  12  |  2   |   1   |  1/12  |
+| Skarla  | 1728 | 144  |  24  |  12   |   1    |
 <small>Reference;<br>
-Skar => S<br>
-Skarsi => Si<br>
-Skarel => Sl</small>
+Skar = S<br>
+Skarsi = Si<br>
+Skarel = Sl<br>
+Skarsha = Sh<br>
+Skarla = la</small>
 
-| Denomination | Real Value | Buying Power |
-| :------------: | :----------: | :------------: |
-| 1 Skar       | 1 Skar     |              | 
+|  Cost  |                             Goods                             |
+|:------:|:-------------------------------------------------------------:|
+|  1 S   |                    1 lb (0.45 kg) of wheat                    |
+|  2 S   |            1 lb (0.45 kg) of flour or one chicken             |
+|  5 S   |                    1 lb (0.45 kg) of Salt                     |
+|  1 Si  |     1 lb (0.45 kg) of iron or 1 sq yd (0.84 m²) of canvas     |
+|  5 Si  | 1 lb (0.45 kg) of copper or 1 sq yd (0.84 m²) of cotton cloth |
+|  1 Sl  |             1 lb (0.45 kg) of ginger or one goat              |
+|  2 Sl  |      1 lb (0.45 kg) of cinnamon or pepper, or one sheep       |
+|  3 Sl  |              1 lb (0.45 kg) of cloves or one pig              |
+|  5 Sl  |    1 lb (0.45 kg) of silver or 1 sq yd (0.84 m²) of linen     |
+| 10 Sl  |             1 sq yd (0.84 m²) of silk or one cow              |
+| 15 Sl  |              1 lb (0.45 kg) of saffron or one ox              |
+| 50 Sl  |                    1 lb (0.45 kg) of gold                     |
+| 500 Sl |                  1 lb (0.45 kg) of platinum                   | 
 
-(Make sure to mention the [Accredation mark](../../Technologies/Accredation%20mark.md))
+<small>(Note: Not final list of costs for goods)<br>
+(Make sure to mention the [Accredation mark](../../Technologies/Accredation%20mark.md))</small>
 
 ### Legislative Body
-Who writes the laws and rules that make this organization function?
+&emsp;Chiefly, the Lords Proliferate function as the body which drafts new laws into existence in a multistep process;
+1. Every six years, laws are drafted by individual Lords, and support is gathered to present these drafts at what is called the [Sexennial Gathering](../../Sexennial%20Gathering.md).
+2. Should the draft garner the approval of one tenth of the assembled Lords, the work comes under the scrutiny of the remaining ninth. 
+3. During the process, there will always be a redraft, and if needed, as many more as required to account for as many possibilities as necessary.
+4. 
+Across a period of six years, laws are drafted by individual proponents, and support is gathered to push such a document into law. If, should one tenth of the Lords Proliferate 
 
 ### Judicial Body
 Who is responsible for carrying out the interpretation of the laws of your organization?
