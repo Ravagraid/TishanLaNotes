@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
-                "mode": "source",
+                "file": "Appendix/kaluk-dathal-origins.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "kaluk-dathal-origins"
             }
           }
         ]
@@ -45,15 +47,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "449a512a8af22e35",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -61,23 +57,28 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "e91fa4d702b44c14",
+            "id": "003b0bb259b45d67",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
-              "state": {}
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "cd476c45aef208f7",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Political/Tishan'La (Empire).md",
+                "file": "Species/Sapient/Kaluk Dathal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kaluk Dathal"
             }
           },
           {
@@ -113,7 +116,9 @@
                 "file": "Organisations/Political/Tishan'La (Empire).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tishan'La (Empire)"
             }
           },
           {
@@ -124,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,98 +141,86 @@
               "type": "outline",
               "state": {
                 "file": "Organisations/Political/Tishan'La (Empire).md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tishan'La (Empire)"
             }
           },
           {
-            "id": "b66b26518def3c7e",
+            "id": "6eeb0a6b9d865385",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0a9707e28db2089d",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "3f1926a6a8fa039d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa28eb8c762932fc",
-            "type": "leaf",
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "7120224d2b01e704",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "612f989ed3292594",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-file-info-plugin:File Info Panel": false,
       "markdown-importer:Open format converter": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7d4ac7ecdc7b0f0a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Species/Sapient/Kaluk Dathal.md",
+    "Settlements/Sha'yvra.md",
     "Organisations/Political/Tishan'La (Empire).md",
+    "Documents/A History of Tishan'La.md",
+    "Rituals & Traditions/Starbinding Festival.md",
+    "Rituals & Traditions/Foundersday.md",
+    "Materials/Shardrask.md",
+    "Materials/Godstear.md",
+    "Technologies/Pathways.md",
+    "Technologies/Accredation mark.md",
+    "Species/Non-Sapient/Hlashe.md",
+    "Species/Non-Sapient/Daesabeasts.md",
+    "Species/Non-Sapient/Craea.md",
+    "Species/Sapient/Kahlkili.md",
+    "Species/Sapient/Dekarln.md",
+    "Species/Sapient/Ceehur.md",
+    "Untitled.md",
     "Sexennial Gathering.md",
     "Misc/Counting System.md",
     "Titles & Ranks/Keeper.md",
     "Locations/Stellar/Three Spheres.md",
     "Misc/TODO.md",
-    "Materials/Shardrask.md",
     "Languages/Ceehuri.md",
     "Languages/Tekali.md",
     "Languages/Tyra.md",
     "Organisations/Political/Lords Proliferate.md",
-    "Languages/Kliks.md",
-    "Species/Sapient/Kaluk Dathal.md",
-    "Languages/Tishresha.md",
-    "Technologies/Accredation mark.md",
-    "Titles & Ranks/Lord Imperatorius.md",
-    "Organisations/Military/Frontier Watch.md",
-    "Locations/Border Colonies.md",
-    "Organisations/Political/Frontier Council.md",
-    "Characters/Major/Trascka The Explorer.md",
-    "Characters/Major/Traexar Scrix.md",
-    "Characters/Deity/The See.md",
-    "Characters/Deity/Ambre.md",
-    "Characters/Deity/Aumann.md",
-    "Rituals & Traditions/Starbinding Festival.md",
     "Buildings/Monolithic",
     "Monolithic",
     "Buildings",
