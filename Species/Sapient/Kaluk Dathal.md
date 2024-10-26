@@ -11,6 +11,19 @@ title: Kaluk Dathal
 
 <small>Pronunciation: Kahl-luck Day-thrall</small>
 
+<small>
+TODO: Sapient.<br>
+Related Ethnicities: TODO: Cultural groups related to this species. Most commonly the cultures that this species is a mono-culture of or that they have a great percentage of their population.
+</small>
+
+<small>
+TODO: non-sapient/Anthroprological<br>
+Scientific Classification: This can be the Phylum, Class, Binomial and/or Trinomial name of the species you are describing.<br>
+Parent Species: TODO: Ponder the O R B<br>
+Discovered by: The person who first discovered/uncovered the existence of this species.<br>
+Current Status: Extinct / Extinct in the Wild / Critically Endangered / Endangered / Vulnerable / Near Threatened / Conservation Dependent / Least Concern<br>
+</small>
+
 ## Introduction
 
 The Kaluk Dathal are a terrestrial species that, as strange as that sounds, that began upon the world of [Tishan'La](Locations/Stellar/Planets/Tishan%27La%20%28World%29.md). It is said they fell upon the world in an orb of blackest pitch, landed upon a circular valley, and spread beneath the very earth like malignant roots.
@@ -20,12 +33,6 @@ As far as biology allows, they are understood to be possessed of a single cell s
 They are few in number, of course, as their kind are rightfully feared as horrors that snatch the bodies of others, corrupt and capture and contort, only to replace it wholesale as a masquerade-form. Thusly then, why do they persist? If one were to ask, they would reply; To End.
 
 ## Generic
-
-### Scientific Classification
-
-TODO: Scientific Classification
-
-This can be the Phylum, Class, Binomial and/or Trinomial name of the species you are describing.
 
 ### Origin / Ancestry
 
@@ -39,25 +46,11 @@ This seed of the dark imbedded itself upon the world, and oozed a foul liquid wi
 
 This would be their downfall, and their doom, as twelve would fall victim to the pool, and these twelve would be bodies and minds stolen, then corrupted, into the first of the Kaluk Dathal.
 
-### Parent Species
-
-TBD
-
 ### Geographic Distribution
 
+TODO: (Add Homeworld section here) Expand distribution of species
+
 By virtue of their subterranean tendencies and lack of any true record of their number, it is assumed that there is at least the presence of a Cluster, or a gathering of two dozen, on every world, every continent, every province within the Empire of Tishan'La.
-
-### Related Ethnicities
-
-Cultural groups related to this species. Most commonly the cultures that this species is a mono-culture of or that they have a great percentage of their population.
-
-### Discovered By
-
-The person who first discovered/uncovered the existence of this species.
-
-### Current Status
-
-Extinct / Extinct in the Wild / Critically Endangered / Endangered / Vulnerable / Near Threatened / Conservation Dependent / Least Concern
 
 #### Conservation Methods
 
@@ -117,7 +110,7 @@ The biological traits of a species define variations between life span, life exp
 
 ### Facial Characteristics and Features
 
-### Body Tint , Colouring & Marking
+### Body Tint, Colouring & Marking
 
 ### Symbiotic And Parasitic Species
 
@@ -163,7 +156,7 @@ Major discoveries, inventions and commonly used items.
 
 ### Dress Code
 
-### Culture And Cultural Heritage`
+### Culture And Cultural Heritage
 
 ### Common Customs And Observed Traditions
 
