@@ -19,8 +19,12 @@ Founding Date:</small>
 System of Governance: Dictatorial Meritocracy<br>
 Demonym: [Tishan'La'Ni](../../Ethnicities/Tishan'La'Ni.md) <br>
 Current Ruler: [Lord Imperatorius](../../Titles%20&%20Ranks/Lord%20Imperatorius.md) [Levariel Demorial](../../Characters/Major/Levariel%20Demorial.md) <br>
-Seat Of Power: [Sha'yvra](../../Settlements/Sha'yvra.md)
+Seat Of Power: [Sha'yvra](../../Settlements/Sha'yvra.md) <br>
 Official Language: [Tishresha](../../Languages/Tishresha.md)</small>
+
+<small>Legislative Body: [The Lords Proliferate](Organisations/Political/Lords%20Proliferate.md) <br>
+Judicial Body: [Hall Of Records](Organisations/Political/hall-of-records.md) <br>
+Executive Body: [The Arbitrators](Organisations/Political/The Arbitrators.md) </small>
 
 <small>Recognised Subjects: [Tishan'La'Ni](../../Species/Sapient/Tishan'La'Ni.md), [Kahlkili](../../Species/Sapient/Kahlkili.md), [Saurita](../../Species/Sapient/Saurita.md), [Yiale](../../Species/Sapient/Yiale.md), [Dekarln](../../Species/Sapient/Dekarln.md), [Ceehur](../../Species/Sapient/Ceehur.md) and [Kaluk Dathal](../../Species/Sapient/Kaluk%20Dathal.md) <br>
 Recognised Languages (Respectively): [Kliks](../../Languages/Kliks.md), [Tyra](../../Languages/Tyra.md), [Yiaiasian](../../Languages/Yiaiasian.md), [Tekali](../../Languages/Tekali.md), and [Ceehuri](../../Languages/Ceehuri.md)</small>
@@ -157,12 +161,7 @@ Skarla = la</small>
 
 ### Legislative Body
 
-&emsp;Chiefly, the Lords Proliferate function as the body which drafts new laws into existence in a multistep process;
-
-1. Every six years, laws are drafted by individual Lords, and support is gathered to present these drafts at what is called the [Sexennial Gathering](../../Sexennial%20Gathering.md).
-2. Should the draft garner the approval of one tenth of the assembled Lords, the work comes under the scrutiny of the remaining ninth.
-3. During the process, there will always be a redraft, and if needed, as many more as required to account for as many possibilities as necessary.
-4. Across a period of six years, laws are drafted by individual proponents, and support is gathered to push such a document into law. If, should one tenth of the Lords Proliferate
+The Lords Proliferate are, if not officially, often the defacto body that pushes new laws, rulings, and regulations into being across the empire. The formal process for such proceedings occurs during the [Sexennial Gathering](Sexennial%20Gathering.md), sometimes called the Assembly.
 
 ### Judicial Body
 

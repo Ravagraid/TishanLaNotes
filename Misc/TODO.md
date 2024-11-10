@@ -1,9 +1,16 @@
-- [x] Fix Links in [Tishan'La (Empire)](../Organisations/Political/Tishan'La%20(Empire).md)
+---
+id: TODO
+aliases: []
+tags: []
+---
+
+- [x] Fix Links in [Tishan'La (Empire)](<../Organisations/Political/Tishan'La%20(Empire).md>)
 - [x] Fix Links in [Three Spheres](../Locations/Stellar/Three%20Spheres.md)
 - [x] Fix Links in [Starbinding Festival](../Rituals%20&%20Traditions/Starbinding%20Festival.md)
 - [x] Fix Links in [Lord Imperatorius](../Titles%20&%20Ranks/Lord%20Imperatorius.md)
 
 # Articles To Format/Start
+
 - [ ] [Far Realms](../Locations/Stellar/Far%20Realms.md)
 - [ ] [Tishan'La'Ni calendar](../Calendars/Tishan'La'Ni%20calendar.md)
 - [ ] [Lords Proliferate](../Organisations/Political/Lords%20Proliferate.md)
@@ -38,7 +45,9 @@
 - [ ] [Ceehuri](../Languages/Ceehuri.md)
 
 # Articles To Finish
-- [ ] [Tishan'La (Empire)](../Organisations/Political/Tishan'La%20(Empire).md)
+
+- [ ] [Tishan'La (Empire)](Organisations/Political/Tishan%27La%20%28Empire%29.md)
 - [ ] [Three Spheres](../Locations/Stellar/Three%20Spheres.md)
 - [ ] [Lord Imperatorius](../Titles%20&%20Ranks/Lord%20Imperatorius.md)
 - [ ] [Council Bondsmen](../Organisations/Council%20Bondsmen.md)
+
